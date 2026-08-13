@@ -1,0 +1,1435 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning Resources"
+    },
+    {
+      "description": "Share your apps here! Submit a pull request!",
+      "items": [],
+      "title": "Showcase (Built with Appwrite 📣)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular Todo MVC A simple todo app built with Appwrite and Angular. Source Code",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-05-16T12:41:47Z",
+            "owner": "appwrite",
+            "repo": "demo-todo-with-angular",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular - Simple Blog - A simple blog example using Angular as the frontend and Appwrite as the backend! Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T00:45:16Z",
+            "owner": "NeonSpork",
+            "repo": "appwrite-blog-example",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular Transcript This - A simple app to transcribe Youtube videos from their links. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-04T16:48:44Z",
+            "owner": "ffex",
+            "repo": "Transcript-This-Demo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular PodBook - A simple app to trascript podcasts from RSS feed. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-04T16:43:38Z",
+            "owner": "ffex",
+            "repo": "PodBook",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular SimpleGrocery - A simple app to create fast shopping-list. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-30T12:32:10Z",
+            "owner": "ffex",
+            "repo": "simple-grocery-demo",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Angular VideoTopics - A simple app to search topic about a Youtube video. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-04T16:53:05Z",
+            "owner": "ffex",
+            "repo": "VideoTopics",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Angular"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Discord crypto price alert bot powered by Appwrite - A Discord bot that sends scheduled crypto price alerts to a Discord channel. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-08T08:58:05Z",
+            "owner": "RizkyRajitha",
+            "repo": "appwritediscorddemo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URL Shortener(Express and Appwrite) - A simple URL Shortener built with Express and Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-27T07:31:42Z",
+            "owner": "dro-1",
+            "repo": "appwrite-url-shortener",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + ExpressJS - A simple API made using Appwrite and ExpressJS. Source Code",
+          "description": "Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-10-18T21:18:42Z",
+            "owner": "PyroCandy",
+            "repo": "pokemon-api-appwrite",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite System Health - A simple demo app to build an express nodejs rest api to monitor health on appwrite app. Source Code",
+          "description": "Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-05T04:11:22Z",
+            "owner": "fernandoamz",
+            "repo": "node-express-server-rest-api",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Express"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flutter Appwrite Quiz App A simple Quiz App built with Flutter and Appwrite Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2023-01-16T06:34:07Z",
+            "owner": "appwrite",
+            "repo": "demo-quiz-with-flutter",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter TODO App - A TODO app with Flutter and Appwrite as a backend. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-07-12T14:09:56Z",
+            "owner": "maniecodes",
+            "repo": "Appwrite-Todo",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Artistry - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-07-26T09:52:30Z",
+            "owner": "dvmjoshi",
+            "repo": "artistry_appwrite",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppNote - Flutter notes app using Appwrite as a backend for storing documents. Source Code",
+          "description": ", Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2020-05-28T17:16:18Z",
+            "owner": "netfirms",
+            "repo": "appnote",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Appwrite Social App A Social App playground for testing the features of Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-07-26T00:37:44Z",
+            "owner": "alistairholmes",
+            "repo": "flutter-appwrite-social-app",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Flutter"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Database interactions with the Python SDK demo - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-17T19:06:29Z",
+            "owner": "jhrcook",
+            "repo": "coffee-counter-appwrite-demo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Authenticate Appwrite User in Django - A Django middleware to authenticate users with Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-05T21:26:45Z",
+            "owner": "khashashin",
+            "repo": "django-appwrite",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime list app with Appwrite and python-telegram-bot - Created a telegram bot with python that handles searching and taking note of your anime watchlist. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-30T21:50:39Z",
+            "owner": "RobiMez",
+            "repo": "Better_anime_list",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discordly A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-23T07:48:56Z",
+            "owner": "Arpan-206",
+            "repo": "discordly",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-Tenant Cake House - A Multi-Tenant app built with Appwrite and Refine Website",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T15:19:38Z",
+            "owner": "refinedev",
+            "repo": "refine",
+            "stars": 35505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + React Todo MVC A simple todo app built with Appwrite and React. Source Code",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-10-06T16:23:42Z",
+            "owner": "appwrite",
+            "repo": "demo-todo-with-react",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + NextJs +Nodejs Instagram clone A instagram clone bulit with Appwrite , Nodejs and Nextjs. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-18T12:39:08Z",
+            "owner": "Sooraj-s-98",
+            "repo": "appwrite-instagram-clone",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code-Snippets-Builder - Drag and drop code snippet builder, effortlessly showcase your code in a visually appealing and professional manner. Source Code",
+          "description": "Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-05T18:55:34Z",
+            "owner": "Sachin-chaurasiya",
+            "repo": "Code-Snippets-Builder",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event-Ally - Event-Ally is an event management application where organizing and executing unforgettable events becomes effortless. Source Code",
+          "description": "Blog Post | Video",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-04T06:42:26Z",
+            "owner": "Rohit-RA-2020",
+            "repo": "Task-Management",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "useMindmap - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-18T01:54:57Z",
+            "owner": "benweier",
+            "repo": "use-mind-map",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Places - A showcase of how to use Appwrite to build a location-based app with related Collections, Appwrite Functions to ensure data integrity, and Realtime subscriptions to fetch asynchronously. Blog Post",
+          "description": "Demo | Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-13T04:31:57Z",
+            "owner": "stnguyen90",
+            "repo": "places",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + NextJs Todo A simple login app built with Appwrite and Nextjs. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-04T02:57:06Z",
+            "owner": "Sooraj-s-98",
+            "repo": "appwrite-todo-with-nextjs",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Idea Xchange - Idea Exchange is a platform for people who have trouble finding ideas for their side projects or are finding a buisness problem to solve and build their startup. Alternatively, people can post their ideas/problem statements and let other users to interact with the idea in form of comments, upvotes and if they would like to pay for the product around that problem/idea statement. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-13T09:30:03Z",
+            "owner": "apoorvdwi",
+            "repo": "Idea-Xchange",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + React Google Drive Clone - A simple google drive clone build with Appwrite and React. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-01-13T09:26:01Z",
+            "owner": "Emiliaaah",
+            "repo": "appwrite-auth-demo",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jobwrite - Jobwrite is a React JS app that lets users find jobs that best match their GitHub profile. It uses NLP technique to analyse and match users with job openings, scrapped from the internet. Loaded with features like GitHub OAuth, filter jobs and feedback options all possible with Appwrite. Source Code",
+          "description": "Blog post Video tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-24T11:56:32Z",
+            "owner": "Dksie09",
+            "repo": "jobwriteYT",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infinite Scrolling with React + Appwrite - A simple project to demonstrate infinite scroll paging. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-24T09:52:22Z",
+            "owner": "SakshiUppoor",
+            "repo": "infinite-scroll-demo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskly - better way to manage your tasks - An app to better manage tasks across all of the different task/todo/issue/project applications. Connect all of your 3party task providers, save time and focus on actually doing your job. Website",
+          "description": ", Blog post, Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-13T08:35:54Z",
+            "owner": "kickassCoderz",
+            "repo": "taskly",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snake Arcade - A retro themed snake game with a live highscore board built in React using Appwrite Database and Realtime feature. Blog Post",
+          "description": "Demo | Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-29T04:32:05Z",
+            "owner": "anomic30",
+            "repo": "Snake-arcade",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next Appwrite Users - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. Source code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-23T22:37:06Z",
+            "owner": "Axolodev",
+            "repo": "next-appwrite-users",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "User Auth - User auth is a simple user authentication for web applications. It was made as a guide for your next application. Source Code",
+          "description": ", Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-05T11:27:49Z",
+            "owner": "HelixHEX",
+            "repo": "reactjs-appwrite_userauth",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shuttery - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-12T02:21:53Z",
+            "owner": "muKaustav",
+            "repo": "Shuttery-Appwrite-Hacktoberfest-2021",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Made with Appwrite (Next.js) This project can be used to collect information about projects which are built using Appwrite and can also be a place of a showcase for such projects. Built with Next.js and Appwrite. Source Code",
+          "description": "Demo Tutorial",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-29T10:11:56Z",
+            "owner": "harisarang",
+            "repo": "madewithappwrite",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tourpal - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-27T20:27:27Z",
+            "owner": "drishtipeshwani",
+            "repo": "Tourpal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + NextJs Social Media App A Social Media App built with Appwrite and Nextjs. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-01T14:32:43Z",
+            "owner": "SanjayDevTech",
+            "repo": "appwrite-nextjs-demo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScheduMate - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better! Website",
+          "description": "Source Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-10T18:11:36Z",
+            "owner": "The-Powerpuff-Rangers",
+            "repo": "schedu-mate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taskwrite -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-18T10:04:45Z",
+            "owner": "muKaustav",
+            "repo": "Taskwrite-Appwrite-Hacktoberfest-2021",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OAuth Provider Tester - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-18T18:55:13Z",
+            "owner": "AmreshSinha",
+            "repo": "OAuth-Tester-Appwrite",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React TODO App - React + Appwrite TODO App Demo by @christyjacob4. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T23:27:30Z",
+            "owner": "christyjacob4",
+            "repo": "todomvc-react",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quiz App (ReactJS and Appwrite) - A demo web application built using React and integrated with Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-06T12:40:13Z",
+            "owner": "shreyventure",
+            "repo": "quiz_app_write",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notes App with React + Appwrite - A notes web app demo built with React and Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-17T08:53:01Z",
+            "owner": "kunals131",
+            "repo": "notes-app-appwrite",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Store your meds - Is a mobile app that let's you organize your medicines at one place. Built using React Native, Expo and Appwrite. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-14T20:43:13Z",
+            "owner": "Neeleshrj",
+            "repo": "store-your-meds",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + NextJs Blog App A Simple Blog App built with Appwrite and Nextjs. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-27T13:18:20Z",
+            "owner": "alceil",
+            "repo": "apppwrite-blogapp-with-nextjs",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Login Page App with React and Appwrite - Created an App with complete tutorial Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-29T11:46:58Z",
+            "owner": "kunals131",
+            "repo": "Login-App-With-Appwrite",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pastebin Clone built with Appwrite - A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-31T01:27:23Z",
+            "owner": "dro-1",
+            "repo": "appwrite-pastebin-clone",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chatwrite -- A simple, no-login chat app made with Appwrite and React. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T22:07:23Z",
+            "owner": "josephcagle",
+            "repo": "Chatwrite",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voting App Admin - Admin panel built with Next.js to control conference polls. Source Code",
+          "description": "Example Conference",
+          "children": []
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OmniaWrite - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. Source Code",
+          "description": ", Blog Post",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2022-05-16T19:38:56Z",
+            "owner": "TorstenDittmann",
+            "repo": "OmniaWrite",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Svelte Todo MVC A simple todo app built with Appwrite and Svelte. Source Code",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Svelte",
+            "last_commit": "2023-04-27T21:01:25Z",
+            "owner": "appwrite",
+            "repo": "demo-todo-with-svelte",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Login Page using Appwrite + Svelte - A login/register page to showcase Appwrite's JS API with Svelte. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-09-09T00:44:19Z",
+            "owner": "PineappleIOnic",
+            "repo": "appwrite-svelte",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMStats A medal tracker for game Trackmania made with Appwrite and Svelte Kit. Source Code",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T13:37:14Z",
+            "owner": "Meldiron",
+            "repo": "tmstats",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "To You - Another to-do app, where completing tasks lead to great rewards. Leverages SvelteKit progressive enhancement features to enable a zero-JS experience. Source Code",
+          "description": ", Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-01-12T02:03:30Z",
+            "owner": "TGlide",
+            "repo": "to-you",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App-ly App-ly is an open-source URL shortener made using Svelte and Appwrite. It is a web app that allows you to shorten long URLs, share them, and generate QR Codes for them. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2022-10-16T16:10:01Z",
+            "owner": "Arpan-206",
+            "repo": "app-ly",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Svelte"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite + Vue Todo MVC A simple todo app built with Appwrite and Vue. Source Code",
+          "description": "Demo",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2023-04-27T19:36:20Z",
+            "owner": "appwrite",
+            "repo": "demo-todo-with-vue",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nuxt3-appwrite package A package to simply implement Appwrite in your Nuxt 3 project. Composable, Routes guards & no config needed. Source Code",
+          "description": ", Documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-25T16:40:47Z",
+            "owner": "YsarocK",
+            "repo": "nuxt-appwrite",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailwinder This an open-source complete community website project created for Appwrite hackathon. Source Code",
+          "description": "Demo Video Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-05-12T16:45:41Z",
+            "owner": "MooseSaeed",
+            "repo": "Tailwinder",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + VueJS Whatsapp Clone - A WhatsApp Web clone using Appwrite and VueJS. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-10-17T19:25:32Z",
+            "owner": "yaakov123",
+            "repo": "whatsapp-clone",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Vue.js CRUD This is a Vue.js App made to interact with a Appwrite Server Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-10-14T05:17:32Z",
+            "owner": "ausgomez",
+            "repo": "countries-app-vue",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Nuxt 3 Workout-Buddy This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-24T19:21:46Z",
+            "owner": "EshaanAgg",
+            "repo": "workout-buddy",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wishlist An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-10T12:41:32Z",
+            "owner": "ReadyToGift",
+            "repo": "Website",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Appwrite + Nuxt) DeUrl A simple URL Shortener app made with appwrite and NuxtJs. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-05T10:03:43Z",
+            "owner": "AVDiv",
+            "repo": "appwrite_nuxtjs_url_shortner",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite + Vue Podcast Transcript A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. Source Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-11-07T19:26:08Z",
+            "owner": "timothee-durand",
+            "repo": "appwrite-transcript",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playground for Flutter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-01T08:12:17Z",
+            "owner": "appwrite",
+            "repo": "playground-for-flutter",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-14T08:17:02Z",
+            "owner": "appwrite",
+            "repo": "playground-for-web",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Python",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T08:11:57Z",
+            "owner": "appwrite",
+            "repo": "playground-for-python",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Android",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-05-14T08:16:17Z",
+            "owner": "appwrite",
+            "repo": "playground-for-android",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-14T08:16:32Z",
+            "owner": "appwrite",
+            "repo": "playground-for-node",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Deno",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-19T13:24:43Z",
+            "owner": "appwrite",
+            "repo": "playground-for-deno",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playground for Android with Retrofit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-03T17:46:11Z",
+            "owner": "subhav13",
+            "repo": "Appwrite-Playground-for-Android-with-Retrofit",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Playgrounds and Snippets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SDK"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite Flutter SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-11T15:14:41Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-flutter",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Web SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T07:58:04Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-web",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Python SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T18:40:53Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-python",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Node.js SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T16:07:55Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-node",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite PHP SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T06:14:28Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-php",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Android SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-13T07:58:17Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-android",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite .NET SDK",
+          "description": "(beta)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T06:15:05Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-dotnet",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Apple SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-13T07:58:12Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-apple",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Dart SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-05T06:48:44Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-dart",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Kotlin SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-24T06:15:23Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-kotlin",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Deno SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-15T23:08:03Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-deno",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Ruby SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-24T06:14:46Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-ruby",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Swift SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-24T06:15:33Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-swift",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Official Appwrite SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unofficial Appwrite Godot Engine SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2022-11-19T18:31:18Z",
+            "owner": "GodotNuts",
+            "repo": "appwrite-sdk",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unoffical Appwrite Minecraft SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-11-20T21:27:26Z",
+            "owner": "NiX3r",
+            "repo": "Appwrite-Minecraft-Database",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Appcelerator Titanium SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-05-19T11:52:32Z",
+            "owner": "m1ga",
+            "repo": "ti.appwrite",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial Appwrite Qt Framework SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-08T19:51:21Z",
+            "owner": "qappwrite",
+            "repo": "qappwrite",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Community-Built SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appwrite CLI",
+          "description": "interact with your Appwrite server side APIs from your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:23:57Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-cli",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fetch Appwrite Types",
+          "description": "generate Typescript Interfaces from Appwrite DB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-16T13:53:44Z",
+            "owner": "YsarocK",
+            "repo": "fetch-appwrite-types",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flutter Appwrite Account Kit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2024-08-02T11:03:57Z",
+            "owner": "flappwrite",
+            "repo": "auth_kit",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Explorer",
+          "description": "explore different aspects of an Appwrite project from the front end",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T23:50:14Z",
+            "owner": "stnguyen90",
+            "repo": "appwrite-explorer",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite Funcover",
+          "description": "\"Cover\" your Appwrite G3 functions with a dedicated endpoint, for static pages, direct execution and more.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-08-10T14:07:20Z",
+            "owner": "byawitz",
+            "repo": "appwrite-funcover",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminWrite",
+          "description": "helper tool for Appwrite to perform bulk operations during development for Database and Users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2023-05-10T18:35:57Z",
+            "owner": "singhbhaskar",
+            "repo": "AdminWrite",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deploy Appwrite function",
+          "description": "a GitHub action to deploy your function to Appwrite",
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:35:48.662Z",
+    "original_repository": "appwrite/awesome-appwrite",
+    "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
+    "enhanced_repository": "enhansome/enhansome-appwrite",
+    "enhanced_repository_description": null,
+    "title": "Awesome Appwrite with stars"
+  }
+}
