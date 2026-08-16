@@ -314,7 +314,7 @@
             "last_commit": "2026-06-05T15:19:38Z",
             "owner": "refinedev",
             "repo": "refine",
-            "stars": 35521
+            "stars": 35523
           }
         },
         {
@@ -1338,7 +1338,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:23:57Z",
+            "last_commit": "2026-08-16T09:23:10Z",
             "owner": "appwrite",
             "repo": "sdk-for-cli",
             "stars": 101
@@ -1425,7 +1425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:02:53.032Z",
+    "last_updated": "2026-08-16T11:05:25.508Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
     "enhanced_repository": "enhansome/enhansome-appwrite",

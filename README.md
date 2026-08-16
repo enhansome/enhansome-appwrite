@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,521 | 🐛 84 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,523 | 🐛 85 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -530,7 +530,7 @@ Share your apps here! Submit a pull request!
 
 ## Tools
 
-* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 101 | 🐛 11 | 🌐 Go | 📅 2026-08-13 interact with your Appwrite server side APIs from your terminal.
+* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 101 | 🐛 11 | 🌐 Go | 📅 2026-08-16 interact with your Appwrite server side APIs from your terminal.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-16 generate Typescript Interfaces from Appwrite DB
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit) ⭐ 34 | 🐛 4 | 🌐 Dart | 📅 2024-08-02
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) ⭐ 19 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-19 explore different aspects of an Appwrite project from the front end
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
