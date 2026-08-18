@@ -314,7 +314,7 @@
             "last_commit": "2026-06-05T15:19:38Z",
             "owner": "refinedev",
             "repo": "refine",
-            "stars": 35524
+            "stars": 35523
           }
         },
         {
@@ -996,7 +996,7 @@
             "last_commit": "2026-05-14T08:17:02Z",
             "owner": "appwrite",
             "repo": "playground-for-web",
-            "stars": 109
+            "stars": 108
           }
         },
         {
@@ -1138,20 +1138,6 @@
         },
         {
           "node_type": "item",
-          "title": "Appwrite PHP SDK",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-14T11:33:15Z",
-            "owner": "appwrite",
-            "repo": "sdk-for-php",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Appwrite Android SDK",
           "description": null,
           "children": [],
@@ -1161,6 +1147,20 @@
             "last_commit": "2026-07-13T07:58:17Z",
             "owner": "appwrite",
             "repo": "sdk-for-android",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Appwrite PHP SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-14T11:33:15Z",
+            "owner": "appwrite",
+            "repo": "sdk-for-php",
             "stars": 155
           }
         },
@@ -1338,7 +1338,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T09:23:10Z",
+            "last_commit": "2026-08-18T06:03:40Z",
             "owner": "appwrite",
             "repo": "sdk-for-cli",
             "stars": 102
@@ -1425,7 +1425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:12:16.748Z",
+    "last_updated": "2026-08-18T11:11:47.721Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
     "enhanced_repository": "enhansome/enhansome-appwrite",
