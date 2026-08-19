@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,523 | 🐛 83 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,533 | 🐛 82 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -514,7 +514,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 155 | 🐛 14 | 🌐 Kotlin | 📅 2026-07-13
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 2 | 🌐 PHP | 📅 2026-08-14
 * [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 129 | 🐛 2 | 🌐 C# | 📅 2026-08-14 (beta)
-* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 123 | 🐛 3 | 🌐 Swift | 📅 2026-07-13
+* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 123 | 🐛 4 | 🌐 Swift | 📅 2026-07-13
 * [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 118 | 🐛 9 | 🌐 Dart | 📅 2026-08-14
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 91 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-14
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-15
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
