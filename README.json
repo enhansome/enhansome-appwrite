@@ -598,7 +598,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35533
+                "stars": 35541
               }
             },
             {
@@ -1782,7 +1782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:12.332Z",
+    "last_updated": "2026-08-20T11:13:27.488Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
