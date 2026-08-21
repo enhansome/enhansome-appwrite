@@ -598,7 +598,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35541
+                "stars": 35547
               }
             },
             {
@@ -1531,7 +1531,7 @@
                 "last_commit": "2026-07-13T07:58:12Z",
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 123
+                "stars": 124
               }
             },
             {
@@ -1696,7 +1696,7 @@
             "archived": false,
             "id": 297582433,
             "language": "Go",
-            "last_commit": "2026-08-18T06:03:40Z",
+            "last_commit": "2026-08-21T11:07:37Z",
             "owner": "appwrite",
             "repo": "sdk-for-cli",
             "stars": 102
@@ -1782,7 +1782,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T11:13:27.488Z",
+    "last_updated": "2026-08-21T11:12:49.602Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
