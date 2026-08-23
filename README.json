@@ -598,7 +598,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35548
+                "stars": 35555
               }
             },
             {
@@ -1426,7 +1426,7 @@
                 "last_commit": "2026-08-11T15:14:41Z",
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
-                "stars": 416
+                "stars": 417
               }
             },
             {
@@ -1660,21 +1660,6 @@
                 "repo": "ti.appwrite",
                 "stars": 8
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Unofficial Appwrite Qt Framework SDK",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 635027995,
-                "language": "C++",
-                "last_commit": "2023-05-08T19:51:21Z",
-                "owner": "qappwrite",
-                "repo": "qappwrite",
-                "stars": 2
-              }
             }
           ],
           "description": null,
@@ -1782,7 +1767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:06:57.635Z",
+    "last_updated": "2026-08-23T11:08:09.328Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",

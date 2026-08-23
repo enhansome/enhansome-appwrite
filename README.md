@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,548 | 🐛 83 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,555 | 🐛 83 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -507,7 +507,7 @@ Share your apps here! Submit a pull request!
 
 ### Official Appwrite SDKs
 
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 416 | 🐛 21 | 🌐 Dart | 📅 2026-08-11
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 417 | 🐛 21 | 🌐 Dart | 📅 2026-08-11
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 335 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-13
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 269 | 🐛 9 | 🌐 Python | 📅 2026-08-14
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 258 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-14
@@ -526,7 +526,7 @@ Share your apps here! Submit a pull request!
 * [Unofficial Appwrite Godot Engine SDK](https://github.com/GodotNuts/appwrite-sdk) ⭐ 55 | 🐛 1 | 🌐 GDScript | 📅 2022-11-19
 * [Unoffical Appwrite Minecraft SDK](https://github.com/nCodesDotEU/Appwrite-Minecraft-Database) ⭐ 15 | 🐛 1 | 🌐 Java | 📅 2021-11-20
 * [Appwrite Appcelerator Titanium SDK](https://github.com/m1ga/ti.appwrite) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2022-05-19
-* [Unofficial Appwrite Qt Framework SDK](https://github.com/qappwrite/qappwrite) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2023-05-08
+* [Unofficial Appwrite Qt Framework SDK](https://github.com/qappwrite/qappwrite)
 
 ## Tools
 
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
