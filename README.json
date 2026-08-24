@@ -164,6 +164,78 @@
       "title": "Official Tutorials and Blog Posts"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub repo containing Docker & Ansible file for deploying Appwrite in Docker Swarm mode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670408572,
+                "language": null,
+                "last_commit": "2024-03-18T17:35:11Z",
+                "owner": "byawitz",
+                "repo": "appwrite-docker",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Setup, Customization and Deployment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite + Appcelerator Titanium: A step by step guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125659263,
+                "language": null,
+                "last_commit": "2022-05-12T13:45:46Z",
+                "owner": "m1ga",
+                "repo": "from_zero_to_app",
+                "stars": 50
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mobile Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Six ways to test and call Dart Appwrite Cloud Functions",
+              "description": "Source Code of Flutter example App",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552956924,
+                "language": "C++",
+                "last_commit": "2022-10-18T12:56:07Z",
+                "owner": "schilken",
+                "repo": "appwrite_cloud_functions",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Appwrite Services"
+        }
+      ],
+      "title": "Learning Resources"
+    },
+    {
       "description": "Share your apps here! Submit a pull request!",
       "items": [
         {
@@ -262,6 +334,28 @@
           "description": null,
           "node_type": "group",
           "title": "Angular"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite + Cordova + React - A simple instagram clone built with Appwrite, Cordova and React (with vite). Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 554530336,
+                "language": "TypeScript",
+                "last_commit": "2022-11-10T22:41:57Z",
+                "owner": "arnu515",
+                "repo": "instagram-clone-with-cordova-appwrite",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cordova"
         },
         {
           "children": [
@@ -409,6 +503,21 @@
             },
             {
               "node_type": "item",
+              "title": "Building No Signal - A chatting App using Flutter and Appwrite Part 1",
+              "description": "Part 2 | Part 3 | Source Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 403934736,
+                "language": "Dart",
+                "last_commit": "2024-06-02T16:06:56Z",
+                "owner": "2002Bishwajeet",
+                "repo": "no_signal",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Fitness Challenge App with Appwrite - Create fitness challenges, invite friends, sync your health data from Apple Health/Google Fit and see who's winning. Source Code",
               "description": "Blog Post",
               "children": [],
@@ -521,6 +630,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Godot + Appwrite - A demo app to showcase Godot's integration with Appwrite. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365088126,
+                "language": "GAP",
+                "last_commit": "2021-05-09T11:38:07Z",
+                "owner": "lohanidamodar",
+                "repo": "godot-appwrite",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Godot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Blog App - A simple blog app built with Appwrite and Preact. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555840784,
+                "language": "JavaScript",
+                "last_commit": "2022-10-22T15:46:34Z",
+                "owner": "Sooraj-s-98",
+                "repo": "Preact-appwrite-blog",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Preact"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Database interactions with the Python SDK demo - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. Source Code",
               "description": null,
               "children": [],
@@ -598,7 +751,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35560
+                "stars": 35561
               }
             },
             {
@@ -1060,6 +1213,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Listr - A react native mobile application that allows for simple task management using lists | Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 558055343,
+                "language": "TypeScript",
+                "last_commit": "2022-10-31T23:09:38Z",
+                "owner": "HelixHEX",
+                "repo": "listr",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "React Native"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OmniaWrite - OmniaWrite is a next-generation plain text editor engineered for creative writing. It is perfect for writing novels, lyrics, poems, essays, drafts and screenplays. Source Code",
               "description": ", Blog Post",
               "children": [],
@@ -1294,6 +1469,94 @@
           "description": null,
           "node_type": "group",
           "title": "Vue"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite + Kotlin Android App -> Taleia - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413559627,
+                "language": "Kotlin",
+                "last_commit": "2021-11-20T19:27:10Z",
+                "owner": "und1n3",
+                "repo": "taleia",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unofficial Appwrite Unity Plugin Features include: login, register, send verification mails and request JWT's. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 567021832,
+                "language": "C#",
+                "last_commit": "2023-02-28T10:12:26Z",
+                "owner": "AlexMeesters",
+                "repo": "unity-appwrite-plugin",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Appwrite + Kotlin Android App -> Taleia - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413559627,
+                "language": "Kotlin",
+                "last_commit": "2021-11-20T19:27:10Z",
+                "owner": "und1n3",
+                "repo": "taleia",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Android"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOS App - A cross-platform mobile app built with .NET MAUI that allows the user to send an SOS message with their location to a saved phone number in times of distress using an Appwrite Function, Radar, and Twilio. Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591377929,
+                "language": "C#",
+                "last_commit": "2023-02-09T14:19:59Z",
+                "owner": "adityaoberai",
+                "repo": "SOS-MAUI",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
         }
       ],
       "title": "Showcase (Built with Appwrite 📣)"
@@ -1767,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:15:09.884Z",
+    "last_updated": "2026-08-24T14:15:11.804Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",

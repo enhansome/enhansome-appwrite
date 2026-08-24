@@ -209,6 +209,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 
 ### Setup, Customization and Deployment
 
+* [GitHub repo containing Docker & Ansible file for deploying Appwrite in Docker Swarm mode](https://github.com/byawitz/scaling-appwrite) ⭐ 34 | 🐛 0 | 📅 2024-03-18
 * [How to add custom Docker containers to Appwrite](https://dev.to/streamlux/adding-custom-docker-containers-to-appwrite-2chp)
 * [Setting up Appwrite on DigitalOcean](https://joshuacook.netlify.app/post/appwrite-digital-ocean/)
 * [Tips for running Appwrite in Production](https://appwrite.io/docs/production)
@@ -223,7 +224,6 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Introduction to AWS (+run Appwrite)](https://rizkyrajitha.hashnode.dev/introduction-to-aws-run-appwrite)
 * [How to install Appwrite on a Linode cloud server](https://dev.to/gregordavies/how-to-install-appwrite-on-a-linode-cloud-server-2235)
 * [Things to do after Setup Appwrite on Digital Ocean](https://imknight.com/things-to-do-after-setup-appwrite-on-digital-ocean)
-* [GitHub repo containing Docker & Ansible file for deploying Appwrite in Docker Swarm mode](https://github.com/byawitz/scaling-appwrite) ⭐ 34 | 🐛 0 | 📅 2024-03-18
 * [Appread book - A DevOps guide for self-hosting Appwrite](https://book.appread.io/)
 
 ### Web Development
@@ -250,6 +250,7 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 
 ### Appwrite Services
 
+* [Six ways to test and call Dart Appwrite Cloud Functions](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code of Flutter example App](https://github.com/schilken/appwrite_cloud_functions) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2022-10-18
 * [Image Resizing and Cropping with Appwrite](https://medium.com/appwrite-io/how-to-use-appwrite-open-source-platform-as-your-image-cropping-optimisation-service-2c5efab4edcb?source=friends_link\&sk=11c8c6d50c2c24d0084f20f98a90a0bd)
 * [Using database api (Contenido en español) ](https://medium.com/@devildeveloper/implementando-un-backend-en-menos-de-cinco-minutos-con-appwrite-7c6d6262cc87)
 * [Avatar API support in Appwrite](https://dev.to/pretty19/avatar-api-support-in-appwrite-fc1)
@@ -259,7 +260,6 @@ The Almost Netflix series is a tutorial for building a Netflix clone with Appwri
 * [Using Appwrite Locale Service in your Next Project](https://dev.to/drishtipeshwani/using-appwrite-locale-service-in-your-next-project-3pcm)
 * [Appwrite Storage Service](https://dev.to/yashp1210/appwrites-storage-service-ned)
 * [Rick Roll Your Friends Using Appwrite, Twilio, and .NET](https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180)
-* [Six ways to test and call Dart Appwrite Cloud Functions](https://medium.com/@aschilken/free-and-easy-cloud-functions-in-dart-with-appwrite-part-1-190faa3dc7bf) | [Source Code of Flutter example App](https://github.com/schilken/appwrite_cloud_functions) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2022-10-18
 
 ## Showcase (Built with Appwrite 📣)
 
@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,560 | 🐛 85 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,561 | 🐛 84 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
