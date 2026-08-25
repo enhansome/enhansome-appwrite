@@ -751,7 +751,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35568
+                "stars": 35569
               }
             },
             {
@@ -1573,7 +1573,7 @@
             "archived": false,
             "id": 254143799,
             "language": "C++",
-            "last_commit": "2026-08-25T04:03:07Z",
+            "last_commit": "2026-08-25T06:41:14Z",
             "owner": "appwrite",
             "repo": "playground-for-flutter",
             "stars": 127
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:57.975Z",
+    "last_updated": "2026-08-25T11:13:53.025Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",

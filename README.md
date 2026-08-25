@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,568 | 🐛 82 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,569 | 🐛 84 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -494,7 +494,7 @@ Share your apps here! Submit a pull request!
 
 ## Playgrounds and Snippets
 
-* [Playground for Flutter](https://github.com/appwrite/playground-for-flutter) ⭐ 127 | 🐛 1 | 🌐 C++ | 📅 2026-08-25
+* [Playground for Flutter](https://github.com/appwrite/playground-for-flutter) ⭐ 127 | 🐛 0 | 🌐 C++ | 📅 2026-08-25
 * [Playground for Web](https://github.com/appwrite/playground-for-web) ⭐ 107 | 🐛 10 | 🌐 HTML | 📅 2026-05-14
 * [Playground for Python](https://github.com/appwrite/playground-for-python) ⭐ 72 | 🐛 7 | 🌐 Python | 📅 2026-05-14
 * [Playground for Node.js](https://github.com/appwrite/playground-for-node) ⭐ 71 | 🐛 9 | 🌐 JavaScript | 📅 2026-05-14
