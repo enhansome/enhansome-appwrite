@@ -751,7 +751,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35569
+                "stars": 35579
               }
             },
             {
@@ -1746,7 +1746,7 @@
                 "archived": false,
                 "id": 374978100,
                 "language": "Kotlin",
-                "last_commit": "2026-07-13T07:58:17Z",
+                "last_commit": "2026-08-26T03:01:20Z",
                 "owner": "appwrite",
                 "repo": "sdk-for-android",
                 "stars": 154
@@ -1821,7 +1821,7 @@
                 "archived": false,
                 "id": 378069941,
                 "language": "Kotlin",
-                "last_commit": "2026-08-14T11:31:38Z",
+                "last_commit": "2026-08-26T03:01:26Z",
                 "owner": "appwrite",
                 "repo": "sdk-for-kotlin",
                 "stars": 91
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:13:53.025Z",
+    "last_updated": "2026-08-26T11:16:14.565Z",
     "original_repository": "appwrite/awesome-appwrite",
     "original_repository_id": 219004129,
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
