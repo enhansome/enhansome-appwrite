@@ -751,7 +751,7 @@
                 "last_commit": "2026-06-05T15:19:38Z",
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35579
+                "stars": 35585
               }
             },
             {
@@ -1761,7 +1761,7 @@
                 "archived": false,
                 "id": 174654263,
                 "language": "PHP",
-                "last_commit": "2026-08-14T11:33:15Z",
+                "last_commit": "2026-08-27T04:43:07Z",
                 "owner": "appwrite",
                 "repo": "sdk-for-php",
                 "stars": 154
@@ -2030,9 +2030,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:16:14.565Z",
-    "original_repository": "appwrite/awesome-appwrite",
-    "original_repository_id": 219004129,
+    "last_updated": "2026-08-27T11:20:54.891Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 219004129,
+      "language": null,
+      "last_commit": "2024-10-15T12:36:07Z",
+      "owner": "appwrite",
+      "repo": "awesome-appwrite",
+      "stars": 1079
+    },
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
     "enhanced_repository": "enhansome/enhansome-appwrite",
     "enhanced_repository_description": null,
