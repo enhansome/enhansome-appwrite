@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AR App for Restaurants and Food Delivery ✨✨",
+                "homepage": null,
                 "id": 315294491,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2021-06-27T08:54:13Z",
+                "open_issues": 4,
                 "owner": "sameeerkashyap",
                 "repo": "FoodMagic",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "appwrite",
+                  "arcore-flutter-plugin",
+                  "augmented-reality",
+                  "blender-models",
+                  "flutter",
+                  "food",
+                  "food-delivery",
+                  "google-ar"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -28,12 +42,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "React Native component that implements the OAuth2 flow for the Appwrite BaaS. It's based on a Modal implementation",
+                "homepage": null,
                 "id": 370488940,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-06-15T14:40:57Z",
+                "open_issues": 2,
                 "owner": "DiegoBM",
                 "repo": "react-native-appwrite-oauth",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -44,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 368454906,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2021-10-14T13:25:28Z",
+                "open_issues": 2,
                 "owner": "aadarshadhakalg",
                 "repo": "Dart-Playground",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -60,12 +84,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example To-Do project for app-write",
+                "homepage": "https://siruscodes.github.io/todo_appwrite/",
                 "id": 369957129,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2021-05-26T11:16:49Z",
+                "open_issues": 0,
                 "owner": "SirusCodes",
                 "repo": "todo_appwrite",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "appwrite",
+                  "basic",
+                  "flutter",
+                  "todo"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -76,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 377777473,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2021-06-30T09:21:28Z",
+                "open_issues": 0,
                 "owner": "intel-raja",
                 "repo": "budgetist_kakeibo",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -92,12 +131,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo is about Auth System Mobile App using Flutter with Appwrite.",
+                "homepage": null,
                 "id": 380950381,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2022-07-25T14:44:50Z",
+                "open_issues": 0,
                 "owner": "devkishor8007",
                 "repo": "Auth_System_Appwrite",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "auth-system",
+                  "dart",
+                  "flutter",
+                  "flutter-apps",
+                  "flutter-apps-development",
+                  "flutter-demo",
+                  "flutter-examples",
+                  "mobile-development"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -108,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 378621047,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2021-07-01T16:02:41Z",
+                "open_issues": 0,
                 "owner": "LeBraveLittleToaster",
                 "repo": "KnowYourFood",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -124,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple todo app built with Appwrite and React Native",
+                "homepage": null,
                 "id": 372251705,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-05-31T12:24:46Z",
+                "open_issues": 0,
                 "owner": "DiegoBM",
                 "repo": "appwrite-todo-with-react-native",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -140,12 +205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A basic demo example for integrating between Appwrite & Flutter 💙",
+                "homepage": null,
                 "id": 378706371,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-06-20T19:03:08Z",
+                "open_issues": 0,
                 "owner": "devkishor8007",
                 "repo": "todo-with-flutter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -156,12 +226,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Toodo, yeah, like most other todo apps. boring.",
+                "homepage": "https://toodo-app.cognitive.id",
                 "id": 339569359,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2025-05-23T07:25:53Z",
+                "open_issues": 1,
                 "owner": "Hrdtr",
                 "repo": "toodo-app",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "appwrite",
+                  "ionic5"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -185,12 +263,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker & Ansible files for deploying Swarm and high availability Appwrite instance(s)",
+                "homepage": "https://book.appread.io/",
                 "id": 670408572,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-03-18T17:35:11Z",
+                "open_issues": 0,
                 "owner": "byawitz",
                 "repo": "appwrite-docker",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "ansible",
+                  "ansible-playbook",
+                  "appread",
+                  "appwrite",
+                  "docker",
+                  "docker-swarm",
+                  "high-availability",
+                  "horizontal-scaling",
+                  "scaling",
+                  "swarm",
+                  "vertical-scaling"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -208,12 +303,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 Basic tutorials for Appcelerator Titanium. Create your first mobile app from start to finish!",
+                "homepage": null,
                 "id": 125659263,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-05-12T13:45:46Z",
+                "open_issues": 2,
                 "owner": "m1ga",
                 "repo": "from_zero_to_app",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "android",
+                  "app",
+                  "appcelerator",
+                  "axway",
+                  "development",
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "ios",
+                  "titanium",
+                  "titanium-mobile",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -231,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 552956924,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-10-18T12:56:07Z",
+                "open_issues": 0,
                 "owner": "schilken",
                 "repo": "appwrite_cloud_functions",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -260,12 +377,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A basic demo example for integrating between Appwrite & Angular ❤️",
+                "homepage": "https://appwrite-todo-with-angular.vercel.app",
                 "id": 352349894,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-16T12:41:47Z",
+                "open_issues": 5,
                 "owner": "appwrite",
                 "repo": "demo-todo-with-angular",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "angular",
+                  "appwrite",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -276,12 +402,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example blog made with Angular and Appwrite",
+                "homepage": null,
                 "id": 417031113,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-02-04T00:45:16Z",
+                "open_issues": 14,
                 "owner": "NeonSpork",
                 "repo": "appwrite-blog-example",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "angular",
+                  "appwrite",
+                  "hacktoberfest",
+                  "hacktoberfest2021"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -292,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo for a video transcript form build with angular and appwrite",
+                "homepage": null,
                 "id": 557162354,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-04T16:48:44Z",
+                "open_issues": 0,
                 "owner": "ffex",
                 "repo": "Transcript-This-Demo",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -308,12 +449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Appwrite Demo To transcript a podcast",
+                "homepage": null,
                 "id": 559666551,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-04T16:43:38Z",
+                "open_issues": 0,
                 "owner": "ffex",
                 "repo": "PodBook",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -324,12 +470,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple shopping list easy to use.",
+                "homepage": null,
                 "id": 422867222,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-10-30T12:32:10Z",
+                "open_issues": 0,
                 "owner": "ffex",
                 "repo": "simple-grocery-demo",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "appwrite"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -340,12 +493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A webapp able to find a YouTube video topics by the link.",
+                "homepage": null,
                 "id": 560104535,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-04T16:53:05Z",
+                "open_issues": 0,
                 "owner": "ffex",
                 "repo": "VideoTopics",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -363,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instagram clone with Appwrite and Cordova",
+                "homepage": null,
                 "id": 554530336,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-10T22:41:57Z",
+                "open_issues": 0,
                 "owner": "arnu515",
                 "repo": "instagram-clone-with-cordova-appwrite",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -386,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discord crypto price alert bot Powered by Appwrite",
+                "homepage": null,
                 "id": 547768857,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-10-08T08:58:05Z",
+                "open_issues": 0,
                 "owner": "RizkyRajitha",
                 "repo": "appwritediscorddemo",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -402,12 +570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 420665918,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-27T07:31:42Z",
+                "open_issues": 0,
                 "owner": "dro-1",
                 "repo": "appwrite-url-shortener",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -418,12 +591,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 418139137,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2021-10-18T21:18:42Z",
+                "open_issues": 0,
                 "owner": "PyroCandy",
                 "repo": "pokemon-api-appwrite",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -434,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 421862630,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-11-05T04:11:22Z",
+                "open_issues": 0,
                 "owner": "fernandoamz",
                 "repo": "node-express-server-rest-api",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -457,12 +640,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A basic demo example for integrating between Appwrite & Flutter 💙",
+                "homepage": null,
                 "id": 356793558,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2023-01-16T06:34:07Z",
+                "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "demo-quiz-with-flutter",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -473,12 +663,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This TODO app is a Flutter application built using Dart and Appwrite.",
+                "homepage": null,
                 "id": 271665443,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2024-07-12T14:09:56Z",
+                "open_issues": 0,
                 "owner": "maniecodes",
                 "repo": "Appwrite-Todo",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "blocpattern",
+                  "flutter",
+                  "flutterbloc",
+                  "reactive-programming",
+                  "reactive-streams",
+                  "task-management",
+                  "taskapp",
+                  "todo-app",
+                  "todo-list"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -489,12 +696,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo built with Flutter and Appwrite backend for Hacktoberfest 2021.",
+                "homepage": null,
                 "id": 420856438,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2022-07-26T09:52:30Z",
+                "open_issues": 0,
                 "owner": "dvmjoshi",
                 "repo": "artistry_appwrite",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "awesome-list",
+                  "crud-application",
+                  "dart",
+                  "flutter",
+                  "flutter-apps",
+                  "flutter-demo",
+                  "flutter-examples",
+                  "flutter-ui",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "hacktoberfest2021",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -505,12 +732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "example flutter app with Appwrite backend",
+                "homepage": null,
                 "id": 267634931,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2020-05-28T17:16:18Z",
+                "open_issues": 1,
                 "owner": "netfirms",
                 "repo": "appnote",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -521,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 300518807,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2026-07-26T00:37:44Z",
+                "open_issues": 0,
                 "owner": "alistairholmes",
                 "repo": "flutter-appwrite-social-app",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -537,12 +774,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chatting Application made using Flutter and Appwrite ",
+                "homepage": null,
                 "id": 403934736,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2024-06-02T16:06:56Z",
+                "open_issues": 1,
                 "owner": "2002Bishwajeet",
                 "repo": "no_signal",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "appwrite",
+                  "chat",
+                  "chat-application",
+                  "chatting-app",
+                  "chattingapp",
+                  "dart",
+                  "docker",
+                  "flutter",
+                  "flutter-apps",
+                  "hacktoberfest",
+                  "riverpod",
+                  "signal"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -553,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Challenge friends on fitness goals",
+                "homepage": null,
                 "id": 420520007,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2021-10-29T19:34:38Z",
+                "open_issues": 8,
                 "owner": "gireeshp",
                 "repo": "fitness_challenge",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -569,12 +829,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Open source ☁️ grade monitoring and calculator app.",
+                "homepage": "https://gradelyapp.com",
                 "id": 394431122,
                 "language": "Dart",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-27T09:05:26Z",
+                "open_issues": 0,
                 "owner": "stonith404",
                 "repo": "gradely2",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "android",
+                  "appwrite",
+                  "flutter",
+                  "grade-calculator",
+                  "ios",
+                  "macos",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -585,12 +858,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A productivity mobile application to create notes",
+                "homepage": null,
                 "id": 627971663,
                 "language": "Dart",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-06T01:03:37Z",
+                "open_issues": 1,
                 "owner": "davidnwaneri",
                 "repo": "simple_notes_app",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -601,12 +879,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building an online store platform using Appwrite and Flutter",
+                "homepage": null,
                 "id": 646878591,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2024-10-12T09:44:37Z",
+                "open_issues": 0,
                 "owner": "asutoshranjan",
                 "repo": "local-ease",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "appwrite",
+                  "flutter"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -617,12 +903,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 545082726,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2022-10-19T21:06:32Z",
+                "open_issues": 0,
                 "owner": "letsintegreat",
                 "repo": "Almost-Instagram",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -633,12 +924,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Приложение для очных голосований",
+                "homepage": null,
                 "id": 479398585,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2023-10-17T12:36:41Z",
+                "open_issues": 0,
                 "owner": "0niel",
                 "repo": "voting-app",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -649,12 +945,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwite demo app built to help quit smoking",
+                "homepage": null,
                 "id": 415366910,
                 "language": "Dart",
+                "license": null,
                 "last_commit": "2021-10-30T22:05:36Z",
+                "open_issues": 0,
                 "owner": "Jonathanvanhaaften",
                 "repo": "flutter_appwrite_1",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "appwrite",
+                  "flutter"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -672,12 +976,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Godot Appwrite Integration",
+                "homepage": null,
                 "id": 365088126,
                 "language": "GAP",
+                "license": null,
                 "last_commit": "2021-05-09T11:38:07Z",
+                "open_issues": 0,
                 "owner": "lohanidamodar",
                 "repo": "godot-appwrite",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "appwrite",
+                  "godot",
+                  "godot-demo"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -695,12 +1008,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple todo app built with Appwrite and Preact",
+                "homepage": null,
                 "id": 555840784,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-22T15:46:34Z",
+                "open_issues": 0,
                 "owner": "Sooraj-s-98",
                 "repo": "Preact-appwrite-blog",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest2022",
+                  "preact"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -718,12 +1040,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demonstration of using an Appwrite backend for a Coffee Counting app.",
+                "homepage": null,
                 "id": 418128371,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-17T19:06:29Z",
+                "open_issues": 0,
                 "owner": "jhrcook",
                 "repo": "coffee-counter-appwrite-demo",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite",
+                  "demo",
+                  "fastapi",
+                  "pydantic",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -734,12 +1067,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Django middleware to authenticate users with Appwrite.",
+                "homepage": null,
                 "id": 598855376,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-05T21:26:45Z",
+                "open_issues": 3,
                 "owner": "khashashin",
                 "repo": "django-appwrite",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite",
+                  "django"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -750,12 +1091,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python telegram bot that handles anime watch lists made to highlight basic appwrite features.",
+                "homepage": null,
                 "id": 422585815,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-10-30T21:50:39Z",
+                "open_issues": 0,
                 "owner": "RobiMez",
                 "repo": "Better_anime_list",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "api",
+                  "appwrite",
+                  "jikan"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -766,12 +1116,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 553379081,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-23T07:48:56Z",
+                "open_issues": 0,
                 "owner": "Arpan-206",
                 "repo": "discordly",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "discord",
+                  "discord-py",
+                  "fastapi",
+                  "hacktoberfest",
+                  "url-shortener"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -789,12 +1151,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+                "homepage": "https://refine.dev",
                 "id": 331293626,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T15:19:38Z",
+                "open_issues": 95,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35592
+                "stars": 35593,
+                "topics": [
+                  "admin",
+                  "admin-ui",
+                  "ant-design",
+                  "crud",
+                  "developer-tools",
+                  "frontend-framework",
+                  "good-first-issue",
+                  "graphql",
+                  "hacktoberfest",
+                  "headless",
+                  "internal-tools",
+                  "javascript",
+                  "low-code",
+                  "nestjs",
+                  "nextjs",
+                  "open-source-project",
+                  "react",
+                  "react-framework",
+                  "react-hooks",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -805,12 +1193,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A basic demo example for integrating between Appwrite & React JS 💙",
+                "homepage": "https://appwrite-todo-with-react.vercel.app",
                 "id": 352349362,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-06T16:23:42Z",
+                "open_issues": 22,
                 "owner": "appwrite",
                 "repo": "demo-todo-with-react",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -821,12 +1219,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Creating instagram clone web by using nextjs and appwrite server",
+                "homepage": "https://appwrite-instagram-clone.netlify.app/",
                 "id": 415011830,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-18T12:39:08Z",
+                "open_issues": 14,
                 "owner": "Sooraj-s-98",
                 "repo": "appwrite-instagram-clone",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest",
+                  "hacktoberfest2021",
+                  "javascript",
+                  "nextjs",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -837,12 +1247,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drag and drop code snippet builder, effortlessly showcase your code in a visually appealing and professional manner.",
+                "homepage": "https://snippetbuilder.com",
                 "id": 640327692,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-05T18:55:34Z",
+                "open_issues": 2,
                 "owner": "Sachin-chaurasiya",
                 "repo": "Code-Snippets-Builder",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "appwrite-database",
+                  "appwrite-hackathon",
+                  "chakraui",
+                  "code-snippet-builder",
+                  "code-snippets",
+                  "netlify",
+                  "reactjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -853,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern event and task management application designed to streamline planning, execution, and attendee engagement for both online and in-person events.",
+                "homepage": "https://eventally.vercel.app",
                 "id": 646701776,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-09-04T06:42:26Z",
+                "open_issues": 0,
                 "owner": "Rohit-RA-2020",
                 "repo": "Task-Management",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -869,12 +1300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://usemindmap.app",
                 "id": 490228764,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-18T01:54:57Z",
+                "open_issues": 2,
                 "owner": "benweier",
                 "repo": "use-mind-map",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -885,12 +1321,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Places",
+                "homepage": "https://places.pages.dev",
                 "id": 489518584,
                 "language": "TypeScript",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-05-13T04:31:57Z",
+                "open_issues": 0,
                 "owner": "stnguyen90",
                 "repo": "places",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "appwrite",
+                  "location-based",
+                  "maps",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -901,12 +1347,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "About A basic demo example for integrating between Appwrite & Next JS 💙",
+                "homepage": null,
                 "id": 412314870,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-06-04T02:57:06Z",
+                "open_issues": 1,
                 "owner": "Sooraj-s-98",
                 "repo": "appwrite-todo-with-nextjs",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "appwrite",
+                  "hackoberfest2021",
+                  "hacktoberfest",
+                  "javascript",
+                  "nextjs",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -917,12 +1376,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find the idea for your next project/startup posted by people all over the world. Alternatively, post your idea over the platform and allow people to comment over the idea.",
+                "homepage": null,
                 "id": 582382084,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-05-13T09:30:03Z",
+                "open_issues": 0,
                 "owner": "apoorvdwi",
                 "repo": "Idea-Xchange",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "appwrite",
+                  "nextjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -933,12 +1400,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Google drive clone using Appwrite for it's back-end",
+                "homepage": null,
                 "id": 408809544,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-13T09:26:01Z",
+                "open_issues": 0,
                 "owner": "Emiliaaah",
                 "repo": "appwrite-auth-demo",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "hacktoberfest",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -949,12 +1427,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A smart job search platform using react and appwrite. Tutorial video - https://youtu.be/9z_Rz-13Hm0",
+                "homepage": "https://jobwrite-yt-azure.vercel.app/",
                 "id": 667529472,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-08-24T11:56:32Z",
+                "open_issues": 0,
                 "owner": "Dksie09",
                 "repo": "jobwriteYT",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -965,12 +1448,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 420405468,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-24T09:52:22Z",
+                "open_issues": 0,
                 "owner": "SakshiUppoor",
                 "repo": "infinite-scroll-demo",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -981,12 +1471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://taskly.kickass.website/",
                 "id": 484007083,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-13T08:35:54Z",
+                "open_issues": 0,
                 "owner": "kickassCoderz",
                 "repo": "taskly",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -997,12 +1492,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retro themed snake game 🎮with live highscore board! ✨",
+                "homepage": "https://snake-arcade-bck7y.ondigitalocean.app/",
                 "id": 482319834,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-04-29T04:32:05Z",
+                "open_issues": 0,
                 "owner": "anomic30",
                 "repo": "Snake-arcade",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite",
+                  "digitalocean",
+                  "game",
+                  "hackathon",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1013,12 +1519,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App that showcases how to use Next.js with Appwrite as its backend",
+                "homepage": null,
                 "id": 548825534,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-10-23T22:37:06Z",
+                "open_issues": 0,
                 "owner": "Axolodev",
                 "repo": "next-appwrite-users",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite",
+                  "nextjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1029,12 +1543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 266224064,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-01-05T11:27:49Z",
+                "open_issues": 22,
                 "owner": "HelixHEX",
                 "repo": "reactjs-appwrite_userauth",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1045,12 +1564,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo web app built with React JS and Appwrite backend for Hacktoberfest 2021.",
+                "homepage": null,
                 "id": 415343643,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-12T02:21:53Z",
+                "open_issues": 0,
                 "owner": "muKaustav",
                 "repo": "Shuttery-Appwrite-Hacktoberfest-2021",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest2021",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1061,12 +1589,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contains projects made with Appwrite",
+                "homepage": "https://madewithappwrite.vercel.app",
                 "id": 421307522,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-29T10:11:56Z",
+                "open_issues": 1,
                 "owner": "harisarang",
                 "repo": "madewithappwrite",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest",
+                  "nextjs",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1077,12 +1615,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 418245055,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-27T20:27:27Z",
+                "open_issues": 0,
                 "owner": "drishtipeshwani",
                 "repo": "Tourpal",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "appwrite"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1093,12 +1638,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite NextJS Demo",
+                "homepage": null,
                 "id": 545631561,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-11-01T14:32:43Z",
+                "open_issues": 0,
                 "owner": "SanjayDevTech",
                 "repo": "appwrite-nextjs-demo",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1109,12 +1659,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Got classes common with friends? Sync them now",
+                "homepage": "https://schedumate.study",
                 "id": 537776727,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-08-10T18:11:36Z",
+                "open_issues": 0,
                 "owner": "The-Powerpuff-Rangers",
                 "repo": "schedu-mate",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "appwrite",
+                  "hackathon",
+                  "hackthemountain2022",
+                  "mlh",
+                  "mlh-powered-hackathons",
+                  "reactjs",
+                  "scheduler"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1125,12 +1688,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo web app built with React JS and Appwrite backend for Hacktoberfest 2021.",
+                "homepage": null,
                 "id": 416825325,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-10-18T10:04:45Z",
+                "open_issues": 0,
                 "owner": "muKaustav",
                 "repo": "Taskwrite-Appwrite-Hacktoberfest-2021",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest2021",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1141,12 +1713,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Made to test new OAuth Implementation in Appwrite",
+                "homepage": null,
                 "id": 415668312,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-18T18:55:13Z",
+                "open_issues": 0,
                 "owner": "AmreshSinha",
                 "repo": "OAuth-Tester-Appwrite",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1157,12 +1737,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Todo App built using Appwrite Backend",
+                "homepage": null,
                 "id": 217598746,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-01-04T23:27:30Z",
+                "open_issues": 23,
                 "owner": "christyjacob4",
                 "repo": "todomvc-react",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1173,12 +1758,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quiz application built using AppWrite and reactJS ",
+                "homepage": null,
                 "id": 413861612,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-06T12:40:13Z",
+                "open_issues": 0,
                 "owner": "shreyventure",
                 "repo": "quiz_app_write",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "hooks-api-react",
+                  "html-css-javascript",
+                  "javascript",
+                  "react",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1189,12 +1786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 415019822,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-17T08:53:01Z",
+                "open_issues": 0,
                 "owner": "kunals131",
                 "repo": "notes-app-appwrite",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1205,12 +1807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 551657467,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-14T20:43:13Z",
+                "open_issues": 0,
                 "owner": "Neeleshrj",
                 "repo": "store-your-meds",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1221,12 +1828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 421508758,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-27T13:18:20Z",
+                "open_issues": 0,
                 "owner": "alceil",
                 "repo": "apppwrite-blogapp-with-nextjs",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1237,12 +1849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 419759652,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-29T11:46:58Z",
+                "open_issues": 0,
                 "owner": "kunals131",
                 "repo": "Login-App-With-Appwrite",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1253,12 +1870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423024314,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-10-31T01:27:23Z",
+                "open_issues": 0,
                 "owner": "dro-1",
                 "repo": "appwrite-pastebin-clone",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1269,12 +1891,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple React-based chat app demo for Appwrite",
+                "homepage": null,
                 "id": 418267160,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-01-07T22:07:23Z",
+                "open_issues": 6,
                 "owner": "josephcagle",
                 "repo": "Chatwrite",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "appwrite",
+                  "chat-application",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1292,12 +1923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 558055343,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-10-31T23:09:38Z",
+                "open_issues": 0,
                 "owner": "HelixHEX",
                 "repo": "listr",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1315,12 +1951,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A text editor engineered for creative writing.",
+                "homepage": "https://OmniaWrite.com",
                 "id": 211483147,
                 "language": "Svelte",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-16T19:38:56Z",
+                "open_issues": 22,
                 "owner": "TorstenDittmann",
                 "repo": "OmniaWrite",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "appwrite",
+                  "editor",
+                  "electron",
+                  "javascript",
+                  "novels",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1331,12 +1979,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A basic demo example for integrating between Appwrite & Svelte🧡",
+                "homepage": "todo-with-svelte-appwrite.vercel.app",
                 "id": 352350991,
                 "language": "Svelte",
+                "license": "MIT",
                 "last_commit": "2023-04-27T21:01:25Z",
+                "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "demo-todo-with-svelte",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1347,12 +2002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite + Svelte = ❤️",
+                "homepage": null,
                 "id": 293563287,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-09-09T00:44:19Z",
+                "open_issues": 0,
                 "owner": "PineappleIOnic",
                 "repo": "appwrite-svelte",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1363,12 +2023,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A medal calendar that shows overview of all Trackmania medals an user achieved.",
+                "homepage": "https://tmstats.almostapps.eu/",
                 "id": 482339095,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-26T13:37:14Z",
+                "open_issues": 0,
                 "owner": "Meldiron",
                 "repo": "tmstats",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "svelte",
+                  "tailwindcss"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1379,12 +2048,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Another to-do app for you, where completing tasks lead to great rewards. Built with Svelte and Appwrite.",
+                "homepage": "https://to-you-tgl.vercel.app",
                 "id": 548038802,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-01-12T02:03:30Z",
+                "open_issues": 0,
                 "owner": "TGlide",
                 "repo": "to-you",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1395,12 +2069,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 545842464,
                 "language": "Svelte",
+                "license": "MIT",
                 "last_commit": "2022-10-16T16:10:01Z",
+                "open_issues": 0,
                 "owner": "Arpan-206",
                 "repo": "app-ly",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1418,12 +2100,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A basic demo example for integrating between Appwrite & Vue JS 💚 ",
+                "homepage": "https://appwrite-todo-with-vue.vercel.app",
                 "id": 352349057,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2023-04-27T19:36:20Z",
+                "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "demo-todo-with-vue",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "appwrite",
+                  "hacktoberfest",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1434,12 +2126,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nuxt 3 module to implement Appwrite",
+                "homepage": "https://nuxt-appwrite.etiennemoureton.fr",
                 "id": 599632135,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-25T16:40:47Z",
+                "open_issues": 6,
                 "owner": "YsarocK",
                 "repo": "nuxt-appwrite",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "appwrite",
+                  "appwrite-auth",
+                  "nuxt",
+                  "nuxt3"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1450,12 +2152,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source community website dedicated to Tailwind CSS enthusiasts, powered by the amazing Appwrite platform.",
+                "homepage": "https://dev.to/moose_said/introducing-tailwinder-home-for-tailwind-fans-powered-with-appwrite-4c0o",
                 "id": 482287466,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2022-05-12T16:45:41Z",
+                "open_issues": 0,
                 "owner": "MooseSaeed",
                 "repo": "Tailwinder",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "appwrite",
+                  "tailwindcss",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1466,12 +2177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 547319101,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2022-10-17T19:25:32Z",
+                "open_issues": 0,
                 "owner": "yaakov123",
                 "repo": "whatsapp-clone",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1482,12 +2198,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Appwrite + Vue.js CRUD",
+                "homepage": "https://app-countries-vue.netlify.app/",
                 "id": 301625257,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2020-10-14T05:17:32Z",
+                "open_issues": 1,
                 "owner": "ausgomez",
                 "repo": "countries-app-vue",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "appwrite",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1498,12 +2222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple app to store your workout routines. Made with Nuxt 3 and Appwrite.",
+                "homepage": null,
                 "id": 549408063,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-10-24T19:21:46Z",
+                "open_issues": 0,
                 "owner": "EshaanAgg",
                 "repo": "workout-buddy",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1514,12 +2243,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://readyto.gift",
                 "id": 820469652,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T12:41:32Z",
+                "open_issues": 5,
                 "owner": "ReadyToGift",
                 "repo": "Website",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "appwrite",
+                  "wishlist",
+                  "wishlistproject"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1530,12 +2268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Demo URL Shortner website made with Appwrite + NuxtJs + ❤️",
+                "homepage": null,
                 "id": 552465220,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2023-03-05T10:03:43Z",
+                "open_issues": 0,
                 "owner": "AVDiv",
                 "repo": "appwrite_nuxtjs_url_shortner",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1546,12 +2289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App to transform audio into text",
+                "homepage": null,
                 "id": 562594680,
                 "language": "Vue",
+                "license": null,
                 "last_commit": "2022-11-07T19:26:08Z",
+                "open_issues": 0,
                 "owner": "timothee-durand",
                 "repo": "appwrite-transcript",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1569,12 +2317,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android App to generate radom sets of words.",
+                "homepage": null,
                 "id": 413559627,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2021-11-20T19:27:10Z",
+                "open_issues": 2,
                 "owner": "und1n3",
                 "repo": "taleia",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "kotlin",
+                  "kotlin-android",
+                  "taleia"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1592,12 +2350,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Unofficial & non affiliated Appwrite plugin for Unity",
+                "homepage": null,
                 "id": 567021832,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-02-28T10:12:26Z",
+                "open_issues": 0,
                 "owner": "AlexMeesters",
                 "repo": "unity-appwrite-plugin",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1615,12 +2378,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android App to generate radom sets of words.",
+                "homepage": null,
                 "id": 413559627,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2021-11-20T19:27:10Z",
+                "open_issues": 2,
                 "owner": "und1n3",
                 "repo": "taleia",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "appwrite",
+                  "kotlin",
+                  "kotlin-android",
+                  "taleia"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1638,12 +2411,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "App that lets a user send an SOS message to a saved contact",
+                "homepage": null,
                 "id": 591377929,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-02-09T14:19:59Z",
+                "open_issues": 4,
                 "owner": "adityaoberai",
                 "repo": "SOS-MAUI",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "appwrite",
+                  "appwrite-function",
+                  "dotnet",
+                  "dotnet-maui",
+                  "radar",
+                  "sos",
+                  "twilio",
+                  "twilio-sms"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -1665,12 +2452,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Flutter (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 254143799,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-25T06:41:14Z",
+            "open_issues": 0,
             "owner": "appwrite",
             "repo": "playground-for-flutter",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "appwrite",
+              "baas",
+              "flutter",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1681,12 +2478,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Web (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 214762609,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-05-14T08:17:02Z",
+            "open_issues": 10,
             "owner": "appwrite",
             "repo": "playground-for-web",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "appwrite",
+              "baas",
+              "hacktoberfest",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1697,12 +2504,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Python (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 296849159,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-14T08:11:57Z",
+            "open_issues": 7,
             "owner": "appwrite",
             "repo": "playground-for-python",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "appwrite",
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1713,12 +2529,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Node.js (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 289447522,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-14T08:16:32Z",
+            "open_issues": 9,
             "owner": "appwrite",
             "repo": "playground-for-node",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "appwrite",
+              "baas",
+              "hacktoberfest",
+              "mbaas",
+              "node-js"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1729,12 +2556,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Android (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 273659785,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2026-05-14T08:16:17Z",
+            "open_issues": 2,
             "owner": "appwrite",
             "repo": "playground-for-android",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "appwrite",
+              "baas",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1745,12 +2581,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple examples that help you get started with Appwrite + Deno (=❤️)",
+            "homepage": "https://appwrite.io",
             "id": 279787043,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-09-19T13:24:43Z",
+            "open_issues": 0,
             "owner": "appwrite",
             "repo": "playground-for-deno",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "appwrite",
+              "baas",
+              "deno",
+              "denoland",
+              "hacktoberfest",
+              "mbaas"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -1761,12 +2609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a playground demo app for Android with Retrofit. We are using direct HTTP request for using Appwrite functionalities.",
+            "homepage": null,
             "id": 300854886,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-10-03T17:46:11Z",
+            "open_issues": 0,
             "owner": "subhav13",
             "repo": "Appwrite-Playground-for-Android-with-Retrofit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         }
@@ -1785,12 +2638,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Flutter SDK 💙",
+                "homepage": "https://appwrite.io",
                 "id": 264599412,
                 "language": "Dart",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T13:02:53Z",
+                "open_issues": 21,
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "dart",
+                  "dartlang",
+                  "desktop",
+                  "flutter",
+                  "hacktoberfest",
+                  "mobile"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1801,12 +2668,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Web SDK 🧡",
+                "homepage": "https://appwrite.io",
                 "id": 174654219,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-13T07:58:04Z",
+                "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-web",
-                "stars": 334
+                "stars": 334,
+                "topics": [
+                  "angular",
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "javascript",
+                  "js",
+                  "mbaas",
+                  "reactjs",
+                  "typescript",
+                  "vue",
+                  "vuejs",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1817,12 +2702,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Python SDK 🐍",
+                "homepage": "https://appwrite.io",
                 "id": 187446536,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:01Z",
+                "open_issues": 9,
                 "owner": "appwrite",
                 "repo": "sdk-for-python",
-                "stars": 268
+                "stars": 268,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1833,12 +2728,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Node.js SDK 🟢",
+                "homepage": "https://appwrite.io",
                 "id": 190069719,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:03:58Z",
+                "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-node",
-                "stars": 256
+                "stars": 256,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "mbaas",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1849,12 +2755,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Android SDK 💚  🤖",
+                "homepage": "https://appwrite.io",
                 "id": 374978100,
                 "language": "Kotlin",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T13:03:17Z",
+                "open_issues": 14,
                 "owner": "appwrite",
                 "repo": "sdk-for-android",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "appwrite",
+                  "baas",
+                  "firebase",
+                  "hacktoberfest",
+                  "java",
+                  "kotlin",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1865,12 +2786,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite PHP SDK 🐘 ",
+                "homepage": "https://appwrite.io",
                 "id": 174654263,
                 "language": "PHP",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:00Z",
+                "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-php",
-                "stars": 154
+                "stars": 154,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1881,12 +2812,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite .NET SDK",
+                "homepage": "https://appwrite.io",
                 "id": 326631201,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:07Z",
+                "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-dotnet",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "appwrite",
+                  "csharp",
+                  "dotnet",
+                  "hacktoberfest",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1897,12 +2839,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite SDK for Apple Devices 🍎",
+                "homepage": null,
                 "id": 409578805,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-13T07:58:12Z",
+                "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1913,12 +2862,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Dart SDK 💙",
+                "homepage": "https://appwrite.io",
                 "id": 209712116,
                 "language": "Dart",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:08Z",
+                "open_issues": 9,
                 "owner": "appwrite",
                 "repo": "sdk-for-dart",
-                "stars": 118
+                "stars": 118,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "dart",
+                  "hacktoberfest",
+                  "mbaas"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1929,12 +2889,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Kotlin SDK 💙🧡",
+                "homepage": "https://appwrite.io",
                 "id": 378069941,
                 "language": "Kotlin",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:09Z",
+                "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "sdk-for-kotlin",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "firebase",
+                  "hacktoberfest",
+                  "java",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1945,12 +2917,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Deno SDK 🦕",
+                "homepage": "https://appwrite.io",
                 "id": 266324435,
                 "language": "TypeScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-09-15T23:08:03Z",
+                "open_issues": 0,
                 "owner": "appwrite",
                 "repo": "sdk-for-deno",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "deno",
+                  "hacktoberfest",
+                  "mbaas",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1961,12 +2945,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Ruby SDK 💎 🔴",
+                "homepage": "https://appwrite.io",
                 "id": 188027237,
                 "language": "Ruby",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:03Z",
+                "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-ruby",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -1977,12 +2971,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Swift SDK 🦅🍎",
+                "homepage": null,
                 "id": 409580586,
                 "language": "Swift",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T11:04:11Z",
+                "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "sdk-for-swift",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -2000,12 +3001,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight addon which integrates Appwrite APIs for Godot Engine out of the box.",
+                "homepage": null,
                 "id": 413935660,
                 "language": "GDScript",
+                "license": "MIT",
                 "last_commit": "2022-11-19T18:31:18Z",
+                "open_issues": 1,
                 "owner": "GodotNuts",
                 "repo": "appwrite-sdk",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "appwrite",
+                  "gdscript",
+                  "godot",
+                  "godot-engine",
+                  "hacktoberfest",
+                  "rest-api"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -2016,12 +3029,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility Minecraft plugin that creates persistent data storage while using Appwrite.",
+                "homepage": null,
                 "id": 412504938,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-11-20T21:27:26Z",
+                "open_issues": 1,
                 "owner": "NiX3r",
                 "repo": "Appwrite-Minecraft-Database",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "appwrite",
+                  "hackoctoberfest"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             },
@@ -2032,12 +3053,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Titanium Android module for Appwrite.io",
+                "homepage": null,
                 "id": 412904097,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-05-19T11:52:32Z",
+                "open_issues": 0,
                 "owner": "m1ga",
                 "repo": "ti.appwrite",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "android",
+                  "appwrite",
+                  "titanium",
+                  "titanium-mobile",
+                  "titanium-module"
+                ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
             }
@@ -2059,12 +3091,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[READ-ONLY] Official Appwrite CLI >_",
+            "homepage": null,
             "id": 297582433,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-25T05:55:06Z",
+            "open_issues": 11,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -2075,12 +3114,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate Typescript file from Appwrite Databases",
+            "homepage": null,
             "id": 608064631,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-11-16T13:53:44Z",
+            "open_issues": 1,
             "owner": "YsarocK",
             "repo": "fetch-appwrite-types",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "appwrite",
+              "cli",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -2091,12 +3139,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Making Appwrite Authentication Easy",
+            "homepage": "https://youtu.be/bqh8qjNCHno",
             "id": 364808867,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2024-08-02T11:03:57Z",
+            "open_issues": 4,
             "owner": "flappwrite",
             "repo": "auth_kit",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "appwrite",
+              "flutter"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -2107,12 +3163,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool to explore an Appwrite project",
+            "homepage": null,
             "id": 413493993,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-03-19T23:50:14Z",
+            "open_issues": 10,
             "owner": "stnguyen90",
             "repo": "appwrite-explorer",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "appwrite",
+              "docker",
+              "docker-compose",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -2123,12 +3189,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cover your Appwrite functions with a dedicated endpoint.",
+            "homepage": "https://hub.docker.com/r/boolcode/appwrite-funcover",
             "id": 650869904,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-08-10T14:07:20Z",
+            "open_issues": 0,
             "owner": "byawitz",
             "repo": "appwrite-funcover",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "appwrite",
+              "appwrite-function",
+              "endpoint"
+            ]
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         },
@@ -2139,12 +3214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AdminWrite is a helper for Appwrite to perform bulk operations during development.",
+            "homepage": null,
             "id": 639085713,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2023-05-10T18:35:57Z",
+            "open_issues": 1,
             "owner": "singhbhaskar",
             "repo": "AdminWrite",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:15:27.935Z"
         }
@@ -2153,15 +3233,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:15:27.935Z",
+    "last_updated": "2026-08-29T04:32:54.310Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Carefully curated list of awesome Appwrite resources 💪",
+      "homepage": "https://appwrite.io",
       "id": 219004129,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-15T12:36:07Z",
+      "open_issues": 4,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1079
+      "stars": 1079,
+      "topics": [
+        "appwrite",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "baas",
+        "mbaas"
+      ]
     },
     "original_repository_sha": "46658f6bbc8b5dd07e5a529c2428364e2c9bf997",
     "enhanced_repository": "enhansome/enhansome-appwrite",
