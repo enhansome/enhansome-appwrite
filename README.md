@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,595 | 🐛 103 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,598 | 🐛 109 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -507,7 +507,7 @@ Share your apps here! Submit a pull request!
 
 ### Official Appwrite SDKs
 
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 417 | 🐛 21 | 🌐 Dart | 📅 2026-08-28
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 418 | 🐛 21 | 🌐 Dart | 📅 2026-08-28
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 334 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-13
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-08-28
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 256 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-28
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

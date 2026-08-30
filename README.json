@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-05T15:19:38Z",
-                "open_issues": 103,
+                "open_issues": 109,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35595,
+                "stars": 35598,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2647,7 +2647,7 @@
                 "open_issues": 21,
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "appwrite",
                   "baas",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:20:59.804Z",
+    "last_updated": "2026-08-30T15:04:10.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
