@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-05T15:19:38Z",
-                "open_issues": 105,
+                "open_issues": 45,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35604,
+                "stars": 35606,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2204,7 +2204,7 @@
                 "language": "Vue",
                 "license": null,
                 "last_commit": "2020-10-14T05:17:32Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "ausgomez",
                 "repo": "countries-app-vue",
                 "stars": 6,
@@ -3096,8 +3096,8 @@
             "id": 297582433,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-25T05:55:06Z",
-            "open_issues": 11,
+            "last_commit": "2026-08-31T18:27:55Z",
+            "open_issues": 12,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
             "stars": 100,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:43:39.259Z",
+    "last_updated": "2026-09-01T15:13:53.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
@@ -3245,7 +3245,7 @@
       "open_issues": 4,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1079,
+      "stars": 1080,
       "topics": [
         "appwrite",
         "awesome",
