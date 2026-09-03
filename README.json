@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-05T15:19:38Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35616,
+                "stars": 35620,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2204,7 +2204,7 @@
                 "language": "Vue",
                 "license": null,
                 "last_commit": "2020-10-14T05:17:32Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "ausgomez",
                 "repo": "countries-app-vue",
                 "stars": 6,
@@ -2761,7 +2761,7 @@
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T13:03:17Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "appwrite",
                 "repo": "sdk-for-android",
                 "stars": 154,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:44:56.093Z",
+    "last_updated": "2026-09-03T14:44:53.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",

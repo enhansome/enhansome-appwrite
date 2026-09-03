@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,616 | 🐛 44 | 🌐 TypeScript | 📅 2026-06-05
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,620 | 🐛 45 | 🌐 TypeScript | 📅 2026-06-05
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -441,7 +441,7 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + VueJS Whatsapp Clone** - A WhatsApp Web clone using Appwrite and VueJS. [Source Code](https://github.com/yaakov123/whatsapp-clone) ⭐ 11 | 🐛 0 | 🌐 Vue | 📅 2022-10-17
 
-* **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue) ⭐ 6 | 🐛 0 | 🌐 Vue | 📅 2020-10-14
+* **Appwrite + Vue.js CRUD** This is a Vue.js App made to interact with a Appwrite Server [Source Code](https://github.com/Anstroy/countries-app-vue) ⭐ 6 | 🐛 1 | 🌐 Vue | 📅 2020-10-14
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-24
 
@@ -511,7 +511,7 @@ Share your apps here! Submit a pull request!
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 334 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-13
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-09-02
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 256 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-02
-* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 154 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-28
+* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 154 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-28
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 154 | 🐛 2 | 🌐 PHP | 📅 2026-09-02
 * [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 2 | 🌐 C# | 📅 2026-09-02 (beta)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 123 | 🐛 4 | 🌐 Swift | 📅 2026-07-13
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
