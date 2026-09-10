@@ -1156,11 +1156,11 @@
                 "id": 331293626,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-06-05T15:19:38Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-10T12:56:35Z",
+                "open_issues": 43,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35647,
+                "stars": 35659,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2791,7 +2791,7 @@
                 "id": 174654263,
                 "language": "PHP",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-02T14:39:52Z",
+                "last_commit": "2026-09-10T08:36:25Z",
                 "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-php",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:49:24.945Z",
+    "last_updated": "2026-09-10T14:40:15.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
