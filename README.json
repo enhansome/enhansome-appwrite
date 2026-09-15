@@ -1160,7 +1160,7 @@
                 "open_issues": 46,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35676,
+                "stars": 35677,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2750,6 +2750,32 @@
             },
             {
               "node_type": "item",
+              "title": "Appwrite PHP SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[READ-ONLY] Official Appwrite PHP SDK 🐘 ",
+                "homepage": "https://appwrite.io",
+                "id": 174654263,
+                "language": "PHP",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-10T08:36:25Z",
+                "open_issues": 2,
+                "owner": "appwrite",
+                "repo": "sdk-for-php",
+                "stars": 155,
+                "topics": [
+                  "appwrite",
+                  "baas",
+                  "hacktoberfest",
+                  "php"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:27.935Z"
+            },
+            {
+              "node_type": "item",
               "title": "Appwrite Android SDK",
               "description": null,
               "children": [],
@@ -2775,32 +2801,6 @@
                   "java",
                   "kotlin",
                   "sdk"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:27.935Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Appwrite PHP SDK",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[READ-ONLY] Official Appwrite PHP SDK 🐘 ",
-                "homepage": "https://appwrite.io",
-                "id": 174654263,
-                "language": "PHP",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-09-10T08:36:25Z",
-                "open_issues": 2,
-                "owner": "appwrite",
-                "repo": "sdk-for-php",
-                "stars": 154,
-                "topics": [
-                  "appwrite",
-                  "baas",
-                  "hacktoberfest",
-                  "php"
                 ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T16:39:08.471Z",
+    "last_updated": "2026-09-15T15:17:34.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
