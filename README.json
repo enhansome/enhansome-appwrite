@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 49,
+                "open_issues": 52,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35683,
+                "stars": 35684,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2737,7 +2737,7 @@
                 "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-node",
-                "stars": 256,
+                "stars": 257,
                 "topics": [
                   "appwrite",
                   "baas",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:10:48.181Z",
+    "last_updated": "2026-09-17T15:20:12.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
