@@ -285,7 +285,7 @@ Share your apps here! Submit a pull request!
 
 ### Express
 
-* **Discord crypto price alert bot powered by Appwrite** - A Discord bot that sends scheduled crypto price alerts to a Discord channel. [Source Code](https://github.com/RizkyRajitha/appwritediscorddemo) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-08
+* **Discord crypto price alert bot powered by Appwrite** - A Discord bot that sends scheduled crypto price alerts to a Discord channel. [Source Code](https://github.com/RizkyRajitha/appwritediscorddemo) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-08
 
 * **URL Shortener(Express and Appwrite)** - A simple URL Shortener built with Express and Appwrite. [Source Code](https://github.com/dro-1/appwrite-url-shortener) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2021-10-27
 
@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,709 | 🐛 49 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,715 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -507,7 +507,7 @@ Share your apps here! Submit a pull request!
 
 ### Official Appwrite SDKs
 
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 418 | 🐛 21 | 🌐 Dart | 📅 2026-09-07
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 418 | 🐛 20 | 🌐 Dart | 📅 2026-09-23
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 334 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-07
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-09-02
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 257 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

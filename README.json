@@ -558,7 +558,7 @@
                 "open_issues": 0,
                 "owner": "RizkyRajitha",
                 "repo": "appwritediscorddemo",
-                "stars": 3,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 49,
+                "open_issues": 47,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35709,
+                "stars": 35715,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2643,8 +2643,8 @@
                 "id": 264599412,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-07T17:49:24Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-23T02:22:08Z",
+                "open_issues": 20,
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
                 "stars": 418,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:11:48.094Z",
+    "last_updated": "2026-09-23T15:12:09.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
@@ -3245,7 +3245,7 @@
       "open_issues": 4,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1081,
+      "stars": 1082,
       "topics": [
         "appwrite",
         "awesome",
