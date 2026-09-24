@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,715 | 🐛 47 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,724 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -507,19 +507,19 @@ Share your apps here! Submit a pull request!
 
 ### Official Appwrite SDKs
 
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 418 | 🐛 20 | 🌐 Dart | 📅 2026-09-23
-* [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 334 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-07
-* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 9 | 🌐 Python | 📅 2026-09-02
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 418 | 🐛 20 | 🌐 Dart | 📅 2026-09-24
+* [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 334 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-24
+* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2026-09-02
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 257 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-13
-* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 2 | 🌐 PHP | 📅 2026-09-10
-* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 154 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-07
-* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 2 | 🌐 C# | 📅 2026-09-02 (beta)
-* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 123 | 🐛 4 | 🌐 Swift | 📅 2026-09-07
-* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 118 | 🐛 9 | 🌐 Dart | 📅 2026-09-02
-* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 91 | 🐛 3 | 🌐 Kotlin | 📅 2026-09-02
+* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 1 | 🌐 PHP | 📅 2026-09-10
+* [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 154 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-24
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-09-02 (beta)
+* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 124 | 🐛 4 | 🌐 Swift | 📅 2026-09-24
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 118 | 🐛 8 | 🌐 Dart | 📅 2026-09-02
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 91 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-02
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-15
-* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 2 | 🌐 Ruby | 📅 2026-09-02
-* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 55 | 🐛 3 | 🌐 Swift | 📅 2026-09-02
+* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 1 | 🌐 Ruby | 📅 2026-09-02
+* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 55 | 🐛 2 | 🌐 Swift | 📅 2026-09-02
 
 ### Community-Built SDKs
 
@@ -530,7 +530,7 @@ Share your apps here! Submit a pull request!
 
 ## Tools
 
-* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 100 | 🐛 13 | 🌐 Go | 📅 2026-09-18 interact with your Appwrite server side APIs from your terminal.
+* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 100 | 🐛 14 | 🌐 Go | 📅 2026-09-24 interact with your Appwrite server side APIs from your terminal.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-16 generate Typescript Interfaces from Appwrite DB
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit) ⭐ 34 | 🐛 4 | 🌐 Dart | 📅 2024-08-02
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) ⭐ 19 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-19 explore different aspects of an Appwrite project from the front end
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
