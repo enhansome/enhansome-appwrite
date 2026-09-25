@@ -1160,7 +1160,7 @@
                 "open_issues": 38,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35724,
+                "stars": 35730,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2647,7 +2647,7 @@
                 "open_issues": 20,
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
-                "stars": 418,
+                "stars": 419,
                 "topics": [
                   "appwrite",
                   "baas",
@@ -2673,11 +2673,11 @@
                 "id": 174654219,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T15:25:32Z",
+                "last_commit": "2026-09-25T10:28:46Z",
                 "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-web",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "angular",
                   "appwrite",
@@ -2733,7 +2733,7 @@
                 "id": 190069719,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-13T05:00:15Z",
+                "last_commit": "2026-09-25T13:46:13Z",
                 "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-node",
@@ -2744,6 +2744,37 @@
                   "hacktoberfest",
                   "mbaas",
                   "nodejs"
+                ]
+              },
+              "first_seen": "2026-08-28T21:15:27.935Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Appwrite Android SDK",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[READ-ONLY] Official Appwrite Android SDK 💚  🤖",
+                "homepage": "https://appwrite.io",
+                "id": 374978100,
+                "language": "Kotlin",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-09-24T15:20:14Z",
+                "open_issues": 13,
+                "owner": "appwrite",
+                "repo": "sdk-for-android",
+                "stars": 155,
+                "topics": [
+                  "android",
+                  "android-library",
+                  "appwrite",
+                  "baas",
+                  "firebase",
+                  "hacktoberfest",
+                  "java",
+                  "kotlin",
+                  "sdk"
                 ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
@@ -2770,37 +2801,6 @@
                   "baas",
                   "hacktoberfest",
                   "php"
-                ]
-              },
-              "first_seen": "2026-08-28T21:15:27.935Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Appwrite Android SDK",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[READ-ONLY] Official Appwrite Android SDK 💚  🤖",
-                "homepage": "https://appwrite.io",
-                "id": 374978100,
-                "language": "Kotlin",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T15:20:14Z",
-                "open_issues": 13,
-                "owner": "appwrite",
-                "repo": "sdk-for-android",
-                "stars": 154,
-                "topics": [
-                  "android",
-                  "android-library",
-                  "appwrite",
-                  "baas",
-                  "firebase",
-                  "hacktoberfest",
-                  "java",
-                  "kotlin",
-                  "sdk"
                 ]
               },
               "first_seen": "2026-08-28T21:15:27.935Z"
@@ -2848,7 +2848,7 @@
                 "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3100,7 +3100,7 @@
             "open_issues": 14,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "hacktoberfest"
             ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:31:06.548Z",
+    "last_updated": "2026-09-25T15:36:05.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
@@ -3245,7 +3245,7 @@
       "open_issues": 4,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1082,
+      "stars": 1084,
       "topics": [
         "appwrite",
         "awesome",
