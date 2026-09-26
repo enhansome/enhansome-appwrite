@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 38,
+                "open_issues": 40,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35730,
+                "stars": 35729,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -3096,11 +3096,11 @@
             "id": 297582433,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-24T15:28:09Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-25T18:11:19Z",
+            "open_issues": 13,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "hacktoberfest"
             ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:36:05.431Z",
+    "last_updated": "2026-09-26T14:45:46.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
