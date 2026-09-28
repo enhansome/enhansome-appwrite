@@ -1160,7 +1160,7 @@
                 "open_issues": 46,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35730,
+                "stars": 35735,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -3096,11 +3096,11 @@
             "id": 297582433,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-25T18:11:19Z",
+            "last_commit": "2026-09-28T09:00:47Z",
             "open_issues": 12,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "hacktoberfest"
             ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:22:48.346Z",
+    "last_updated": "2026-09-28T18:16:38.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
