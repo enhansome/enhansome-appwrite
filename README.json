@@ -1160,7 +1160,7 @@
                 "open_issues": 46,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35735,
+                "stars": 35738,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:16:38.608Z",
+    "last_updated": "2026-09-29T16:39:15.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
