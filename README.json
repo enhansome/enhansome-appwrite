@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 46,
+                "open_issues": 44,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35738,
+                "stars": 35739,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:39:15.565Z",
+    "last_updated": "2026-09-30T16:31:26.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
