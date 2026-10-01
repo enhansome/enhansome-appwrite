@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,739 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,748 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -509,8 +509,8 @@ Share your apps here! Submit a pull request!
 
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 419 | 🐛 20 | 🌐 Dart | 📅 2026-09-24
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 335 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-25
-* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 268 | 🐛 7 | 🌐 Python | 📅 2026-09-02
-* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 257 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-25
+* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 267 | 🐛 7 | 🌐 Python | 📅 2026-09-02
+* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 258 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-25
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 155 | 🐛 13 | 🌐 Kotlin | 📅 2026-09-24
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 1 | 🌐 PHP | 📅 2026-09-10
 * [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-09-02 (beta)
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
