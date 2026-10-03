@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "FoodMagic",
-              "description": null,
+              "description": "sameeerkashyap/FoodMagic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "React Native Appwrite OAuth",
-              "description": null,
+              "description": "DiegoBM/react-native-appwrite-oauth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -59,7 +59,7 @@
             {
               "node_type": "item",
               "title": "Dart Online Compiler",
-              "description": null,
+              "description": "aadarshadhakalg/Dart-Playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -80,7 +80,7 @@
             {
               "node_type": "item",
               "title": "Todo With Flutter",
-              "description": null,
+              "description": "SirusCodes/todo_appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -106,7 +106,7 @@
             {
               "node_type": "item",
               "title": "Budgetist",
-              "description": null,
+              "description": "intel-raja/budgetist_kakeibo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
             {
               "node_type": "item",
               "title": "Flutter Appwrite Auth System",
-              "description": null,
+              "description": "devkishor8007/Auth_System_Appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "KnowYourFood",
-              "description": null,
+              "description": "LeBraveLittleToaster/KnowYourFood",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -180,7 +180,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Todo With React Native",
-              "description": null,
+              "description": "DiegoBM/appwrite-todo-with-react-native",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -201,7 +201,7 @@
             {
               "node_type": "item",
               "title": "Flutter Appwrite Todo",
-              "description": null,
+              "description": "devkishor8007/todo-with-flutter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -222,7 +222,7 @@
             {
               "node_type": "item",
               "title": "Toodo - Appwrite with Ionic",
-              "description": null,
+              "description": "Hrdtr/toodo-app",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -259,7 +259,7 @@
             {
               "node_type": "item",
               "title": "GitHub repo containing Docker & Ansible file for deploying Appwrite in Docker Swarm mode",
-              "description": null,
+              "description": "byawitz/appwrite-docker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -299,7 +299,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Appcelerator Titanium: A step by step guide",
-              "description": null,
+              "description": "m1ga/from_zero_to_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -373,7 +373,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular Todo MVC A simple todo app built with Appwrite and Angular. Source Code",
-              "description": "Demo",
+              "description": "appwrite/demo-todo-with-angular",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -398,7 +398,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular - Simple Blog - A simple blog example using Angular as the frontend and Appwrite as the backend! Source Code",
-              "description": null,
+              "description": "NeonSpork/appwrite-blog-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular Transcript This - A simple app to transcribe Youtube videos from their links. Source Code",
-              "description": null,
+              "description": "ffex/Transcript-This-Demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,7 +445,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular PodBook - A simple app to trascript podcasts from RSS feed. Source Code",
-              "description": null,
+              "description": "ffex/PodBook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular SimpleGrocery - A simple app to create fast shopping-list. Source Code",
-              "description": null,
+              "description": "ffex/simple-grocery-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -489,7 +489,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Angular VideoTopics - A simple app to search topic about a Youtube video. Source Code",
-              "description": null,
+              "description": "ffex/VideoTopics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Cordova + React - A simple instagram clone built with Appwrite, Cordova and React (with vite). Source Code",
-              "description": null,
+              "description": "arnu515/instagram-clone-with-cordova-appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -545,7 +545,7 @@
             {
               "node_type": "item",
               "title": "Discord crypto price alert bot powered by Appwrite - A Discord bot that sends scheduled crypto price alerts to a Discord channel. Source Code",
-              "description": null,
+              "description": "RizkyRajitha/appwritediscorddemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -566,7 +566,7 @@
             {
               "node_type": "item",
               "title": "URL Shortener(Express and Appwrite) - A simple URL Shortener built with Express and Appwrite. Source Code",
-              "description": null,
+              "description": "dro-1/appwrite-url-shortener",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -636,7 +636,7 @@
             {
               "node_type": "item",
               "title": "Flutter Appwrite Quiz App A simple Quiz App built with Flutter and Appwrite Source Code",
-              "description": null,
+              "description": "appwrite/demo-quiz-with-flutter",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -659,7 +659,7 @@
             {
               "node_type": "item",
               "title": "Flutter TODO App - A TODO app with Flutter and Appwrite as a backend. Source Code",
-              "description": null,
+              "description": "maniecodes/Appwrite-Todo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -692,7 +692,7 @@
             {
               "node_type": "item",
               "title": "Artistry - Artistry is a demo app built with flutter and Appwrite backend that demonstrates how to perform crud operation,searching, authentication with touch of cool animations. Source Code",
-              "description": null,
+              "description": "dvmjoshi/artistry_appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,7 +749,7 @@
             {
               "node_type": "item",
               "title": "Flutter Appwrite Social App A Social App playground for testing the features of Appwrite. Source Code",
-              "description": null,
+              "description": "alistairholmes/flutter-appwrite-social-app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -825,7 +825,7 @@
             {
               "node_type": "item",
               "title": "Gradely 2 - Grade Calculator - A grade calulator app where you can monitor and store your grades, built with Appwrite and Flutter. Source Code",
-              "description": null,
+              "description": "stonith404/gradely2",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -854,7 +854,7 @@
             {
               "node_type": "item",
               "title": "Simple Notes App - A productivity mobile application to create notes Source Code",
-              "description": null,
+              "description": "davidnwaneri/simple_notes_app",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -899,7 +899,7 @@
             {
               "node_type": "item",
               "title": "Almost Instagram with Flutter and Appwrite - A functional clone of Instagram social media platform Source Code",
-              "description": null,
+              "description": "letsintegreat/Almost-Instagram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
             {
               "node_type": "item",
               "title": "Quit Smoking App with Flutter and Appwrite - A simple Counting app with user auth Source Code",
-              "description": null,
+              "description": "Jonathanvanhaaften/flutter_appwrite_1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -972,7 +972,7 @@
             {
               "node_type": "item",
               "title": "Godot + Appwrite - A demo app to showcase Godot's integration with Appwrite. Source Code",
-              "description": null,
+              "description": "lohanidamodar/godot-appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1004,7 +1004,7 @@
             {
               "node_type": "item",
               "title": "Blog App - A simple blog app built with Appwrite and Preact. Source Code",
-              "description": null,
+              "description": "Sooraj-s-98/Preact-appwrite-blog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1036,7 +1036,7 @@
             {
               "node_type": "item",
               "title": "Database interactions with the Python SDK demo - A demonstration of using an Appwrite backend with a FastAPI python web application focussing on using pydantic as the interface with the Database. Source Code",
-              "description": null,
+              "description": "jhrcook/coffee-counter-appwrite-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1063,7 +1063,7 @@
             {
               "node_type": "item",
               "title": "Authenticate Appwrite User in Django - A Django middleware to authenticate users with Appwrite. Source Code",
-              "description": null,
+              "description": "khashashin/django-appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1087,7 +1087,7 @@
             {
               "node_type": "item",
               "title": "Anime list app with Appwrite and python-telegram-bot - Created a telegram bot with python that handles searching and taking note of your anime watchlist. Source Code",
-              "description": null,
+              "description": "RobiMez/Better_anime_list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,7 +1112,7 @@
             {
               "node_type": "item",
               "title": "Discordly A Discord-bot to readily and easily shorten links from Discord itself, made possible by Appwrite. Source Code",
-              "description": null,
+              "description": "Arpan-206/discordly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1147,7 +1147,7 @@
             {
               "node_type": "item",
               "title": "Multi-Tenant Cake House - A Multi-Tenant app built with Appwrite and Refine Website",
-              "description": "Source Code",
+              "description": "refinedev/refine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1160,7 +1160,7 @@
                 "open_issues": 41,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35753,
+                "stars": 35754,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -1189,7 +1189,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + React Todo MVC A simple todo app built with Appwrite and React. Source Code",
-              "description": "Demo",
+              "description": "appwrite/demo-todo-with-react",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1215,7 +1215,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + NextJs +Nodejs Instagram clone A instagram clone bulit with Appwrite , Nodejs and Nextjs. Source Code",
-              "description": null,
+              "description": "Sooraj-s-98/appwrite-instagram-clone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1296,7 +1296,7 @@
             {
               "node_type": "item",
               "title": "useMindmap - useMindmap is a mind mapping tool for individuals and teams to put their ideas or projects or whatever else a mind map can be used for. Built with React and Appwrite. Source Code",
-              "description": null,
+              "description": "benweier/use-mind-map",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1343,7 +1343,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + NextJs Todo A simple login app built with Appwrite and Nextjs. Source Code",
-              "description": null,
+              "description": "Sooraj-s-98/appwrite-todo-with-nextjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1372,7 +1372,7 @@
             {
               "node_type": "item",
               "title": "Idea Xchange - Idea Exchange is a platform for people who have trouble finding ideas for their side projects or are finding a buisness problem to solve and build their startup. Alternatively, people can post their ideas/problem statements and let other users to interact with the idea in form of comments, upvotes and if they would like to pay for the product around that problem/idea statement. Source Code",
-              "description": null,
+              "description": "apoorvdwi/Idea-Xchange",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + React Google Drive Clone - A simple google drive clone build with Appwrite and React. Source Code",
-              "description": null,
+              "description": "Emiliaaah/appwrite-auth-demo",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1444,7 +1444,7 @@
             {
               "node_type": "item",
               "title": "Infinite Scrolling with React + Appwrite - A simple project to demonstrate infinite scroll paging. Source Code",
-              "description": null,
+              "description": "SakshiUppoor/infinite-scroll-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1515,7 +1515,7 @@
             {
               "node_type": "item",
               "title": "Next Appwrite Users - App that showcases how to use Next.js with Appwrite as its backend. Uses Appwrite for Auth both on the frontend and on API routes. Source code",
-              "description": null,
+              "description": "Axolodev/next-appwrite-users",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1560,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "Shuttery - Shuttery is a web app which fetches and lets you download beautiful pictures from Unsplash to satisfy all your artistic needs. Secure App, with Google OAuth using an Appwrite backend. Source Code",
-              "description": null,
+              "description": "muKaustav/Shuttery-Appwrite-Hacktoberfest-2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1611,7 +1611,7 @@
             {
               "node_type": "item",
               "title": "Tourpal - Tourpal is a travel journal web app in which you can store all your travel experiences at one place. The app is built with ReactJs and Appwrite. At the same time, it is a completely secure app and uses Google authentication. Source Code",
-              "description": null,
+              "description": "drishtipeshwani/Tourpal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1634,7 +1634,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + NextJs Social Media App A Social Media App built with Appwrite and Nextjs. Source Code",
-              "description": null,
+              "description": "SanjayDevTech/appwrite-nextjs-demo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1655,7 +1655,7 @@
             {
               "node_type": "item",
               "title": "ScheduMate - A web application that allows you to easily see the classes that you have in common with your friends. Friends make classes so much better! Website",
-              "description": "Source Code",
+              "description": "The-Powerpuff-Rangers/schedu-mate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1684,7 +1684,7 @@
             {
               "node_type": "item",
               "title": "Taskwrite -Taskwrite is a demo web app built with React JS and Appwrite backend for Hacktoberfest 2021, that demonstrates how to create a To-Do list, that lets users add, edit, and delete tasks. It demonstrates the use of Google OAuth and Database Management. Source Code",
-              "description": null,
+              "description": "muKaustav/Taskwrite-Appwrite-Hacktoberfest-2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1709,7 +1709,7 @@
             {
               "node_type": "item",
               "title": "OAuth Provider Tester - A Simple Appwrite OAuth Tester App built to make new oauth provider testing easy. Source Code",
-              "description": null,
+              "description": "AmreshSinha/OAuth-Tester-Appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1733,7 +1733,7 @@
             {
               "node_type": "item",
               "title": "React TODO App - React + Appwrite TODO App Demo by @christyjacob4. Source Code",
-              "description": null,
+              "description": "christyjacob4/todomvc-react",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1754,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "Quiz App (ReactJS and Appwrite) - A demo web application built using React and integrated with Appwrite. Source Code",
-              "description": null,
+              "description": "shreyventure/quiz_app_write",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1782,7 +1782,7 @@
             {
               "node_type": "item",
               "title": "Notes App with React + Appwrite - A notes web app demo built with React and Appwrite. Source Code",
-              "description": null,
+              "description": "kunals131/notes-app-appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Store your meds - Is a mobile app that let's you organize your medicines at one place. Built using React Native, Expo and Appwrite. Source Code",
-              "description": null,
+              "description": "Neeleshrj/store-your-meds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + NextJs Blog App A Simple Blog App built with Appwrite and Nextjs. Source Code",
-              "description": null,
+              "description": "alceil/apppwrite-blogapp-with-nextjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "Login Page App with React and Appwrite - Created an App with complete tutorial Source Code",
-              "description": null,
+              "description": "kunals131/Login-App-With-Appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "Pastebin Clone built with Appwrite - A simple pastebin clone built in React with Appwrite using Google OAuth for Authentication Source Code",
-              "description": null,
+              "description": "dro-1/appwrite-pastebin-clone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "Chatwrite -- A simple, no-login chat app made with Appwrite and React. Source Code",
-              "description": null,
+              "description": "josephcagle/Chatwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1919,7 +1919,7 @@
             {
               "node_type": "item",
               "title": "Listr - A react native mobile application that allows for simple task management using lists | Source Code",
-              "description": null,
+              "description": "HelixHEX/listr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1975,7 +1975,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Svelte Todo MVC A simple todo app built with Appwrite and Svelte. Source Code",
-              "description": "Demo",
+              "description": "appwrite/demo-todo-with-svelte",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1998,7 +1998,7 @@
             {
               "node_type": "item",
               "title": "Login Page using Appwrite + Svelte - A login/register page to showcase Appwrite's JS API with Svelte. Source Code",
-              "description": null,
+              "description": "PineappleIOnic/appwrite-svelte",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2019,7 +2019,7 @@
             {
               "node_type": "item",
               "title": "TMStats A medal tracker for game Trackmania made with Appwrite and Svelte Kit. Source Code",
-              "description": "Demo",
+              "description": "Meldiron/tmstats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2065,7 +2065,7 @@
             {
               "node_type": "item",
               "title": "App-ly App-ly is an open-source URL shortener made using Svelte and Appwrite. It is a web app that allows you to shorten long URLs, share them, and generate QR Codes for them. Source Code",
-              "description": null,
+              "description": "Arpan-206/app-ly",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2096,7 +2096,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Vue Todo MVC A simple todo app built with Appwrite and Vue. Source Code",
-              "description": "Demo",
+              "description": "appwrite/demo-todo-with-vue",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2173,7 +2173,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + VueJS Whatsapp Clone - A WhatsApp Web clone using Appwrite and VueJS. Source Code",
-              "description": null,
+              "description": "yaakov123/whatsapp-clone",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2194,7 +2194,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Vue.js CRUD This is a Vue.js App made to interact with a Appwrite Server Source Code",
-              "description": null,
+              "description": "ausgomez/countries-app-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2218,7 +2218,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Nuxt 3 Workout-Buddy This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! Source Code",
-              "description": null,
+              "description": "EshaanAgg/workout-buddy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2239,7 +2239,7 @@
             {
               "node_type": "item",
               "title": "Wishlist An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc Source Code",
-              "description": null,
+              "description": "ReadyToGift/Website",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2264,7 +2264,7 @@
             {
               "node_type": "item",
               "title": "(Appwrite + Nuxt) DeUrl A simple URL Shortener app made with appwrite and NuxtJs. Source Code",
-              "description": null,
+              "description": "AVDiv/appwrite_nuxtjs_url_shortner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2285,7 +2285,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Vue Podcast Transcript A simple Podcast Transcript app built with Appwrite, Deepgram and Vue. Source Code",
-              "description": null,
+              "description": "timothee-durand/appwrite-transcript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2313,7 +2313,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Kotlin Android App -> Taleia - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. Source Code",
-              "description": null,
+              "description": "und1n3/taleia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2346,7 +2346,7 @@
             {
               "node_type": "item",
               "title": "Unofficial Appwrite Unity Plugin Features include: login, register, send verification mails and request JWT's. Source Code",
-              "description": null,
+              "description": "AlexMeesters/unity-appwrite-plugin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2374,7 +2374,7 @@
             {
               "node_type": "item",
               "title": "Appwrite + Kotlin Android App -> Taleia - A simple app that generates sets of random word combinations to fight the writer's block. It Allows to log in and save them with Appwrite to be able to retreive the liked combinations later. Source Code",
-              "description": null,
+              "description": "und1n3/taleia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2407,7 +2407,7 @@
             {
               "node_type": "item",
               "title": "SOS App - A cross-platform mobile app built with .NET MAUI that allows the user to send an SOS message with their location to a saved phone number in times of distress using an Appwrite Function, Radar, and Twilio. Source Code",
-              "description": null,
+              "description": "adityaoberai/SOS-MAUI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2448,7 +2448,7 @@
         {
           "node_type": "item",
           "title": "Playground for Flutter",
-          "description": null,
+          "description": "appwrite/playground-for-flutter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2474,7 +2474,7 @@
         {
           "node_type": "item",
           "title": "Playground for Web",
-          "description": null,
+          "description": "appwrite/playground-for-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2500,7 +2500,7 @@
         {
           "node_type": "item",
           "title": "Playground for Python",
-          "description": null,
+          "description": "appwrite/playground-for-python",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2525,7 +2525,7 @@
         {
           "node_type": "item",
           "title": "Playground for Node.js",
-          "description": null,
+          "description": "appwrite/playground-for-node",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2552,7 +2552,7 @@
         {
           "node_type": "item",
           "title": "Playground for Android",
-          "description": null,
+          "description": "appwrite/playground-for-android",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2577,7 +2577,7 @@
         {
           "node_type": "item",
           "title": "Playground for Deno",
-          "description": null,
+          "description": "appwrite/playground-for-deno",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2605,7 +2605,7 @@
         {
           "node_type": "item",
           "title": "Playground for Android with Retrofit",
-          "description": null,
+          "description": "subhav13/Appwrite-Playground-for-Android-with-Retrofit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Flutter SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-flutter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2664,7 +2664,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Web SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-web",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2698,7 +2698,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Python SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-python",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2724,7 +2724,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Node.js SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-node",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2751,7 +2751,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Android SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2782,7 +2782,7 @@
             {
               "node_type": "item",
               "title": "Appwrite PHP SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2835,7 +2835,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Apple SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-apple",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2858,7 +2858,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Dart SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-dart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2885,7 +2885,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Kotlin SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-kotlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2913,7 +2913,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Deno SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-deno",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2941,7 +2941,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Ruby SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-ruby",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2967,7 +2967,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Swift SDK",
-              "description": null,
+              "description": "appwrite/sdk-for-swift",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2997,7 +2997,7 @@
             {
               "node_type": "item",
               "title": "Unofficial Appwrite Godot Engine SDK",
-              "description": null,
+              "description": "GodotNuts/appwrite-sdk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3025,7 +3025,7 @@
             {
               "node_type": "item",
               "title": "Unoffical Appwrite Minecraft SDK",
-              "description": null,
+              "description": "NiX3r/Appwrite-Minecraft-Database",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3049,7 +3049,7 @@
             {
               "node_type": "item",
               "title": "Appwrite Appcelerator Titanium SDK",
-              "description": null,
+              "description": "m1ga/ti.appwrite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3135,7 +3135,7 @@
         {
           "node_type": "item",
           "title": "Flutter Appwrite Account Kit",
-          "description": null,
+          "description": "flappwrite/auth_kit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:23:06.964Z",
+    "last_updated": "2026-10-03T04:32:50.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
@@ -3245,7 +3245,7 @@
       "open_issues": 4,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1084,
+      "stars": 1085,
       "topics": [
         "appwrite",
         "awesome",
