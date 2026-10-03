@@ -1160,7 +1160,7 @@
                 "open_issues": 41,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35754,
+                "stars": 35756,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2760,8 +2760,8 @@
                 "id": 374978100,
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T15:20:14Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-03T13:17:10Z",
+                "open_issues": 14,
                 "owner": "appwrite",
                 "repo": "sdk-for-android",
                 "stars": 155,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:32:50.958Z",
+    "last_updated": "2026-10-03T14:57:01.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
