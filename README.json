@@ -2734,7 +2734,7 @@
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-25T13:46:13Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "appwrite",
                 "repo": "sdk-for-node",
                 "stars": 258,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:31:06.667Z",
+    "last_updated": "2026-10-05T19:43:44.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
