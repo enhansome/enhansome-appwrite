@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,800 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 35,824 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -509,17 +509,17 @@ Share your apps here! Submit a pull request!
 
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 419 | 🐛 20 | 🌐 Dart | 📅 2026-10-08
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 335 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-08
-* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 265 | 🐛 7 | 🌐 Python | 📅 2026-10-06
-* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 258 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-06
+* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 265 | 🐛 7 | 🌐 Python | 📅 2026-10-09
+* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 258 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 155 | 🐛 13 | 🌐 Kotlin | 📅 2026-10-07
-* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 1 | 🌐 PHP | 📅 2026-10-06
-* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-10-06 (beta)
+* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 155 | 🐛 1 | 🌐 PHP | 📅 2026-10-09
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-10-09 (beta)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 125 | 🐛 4 | 🌐 Swift | 📅 2026-10-07
-* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 118 | 🐛 8 | 🌐 Dart | 📅 2026-10-06
-* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 91 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-06
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 118 | 🐛 8 | 🌐 Dart | 📅 2026-10-09
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 91 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-09
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-15
-* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 1 | 🌐 Ruby | 📅 2026-10-06
-* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 55 | 🐛 2 | 🌐 Swift | 📅 2026-10-06
+* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 1 | 🌐 Ruby | 📅 2026-10-09
+* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 55 | 🐛 2 | 🌐 Swift | 📅 2026-10-09
 
 ### Community-Built SDKs
 
@@ -530,7 +530,7 @@ Share your apps here! Submit a pull request!
 
 ## Tools
 
-* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 103 | 🐛 13 | 🌐 Go | 📅 2026-10-08 interact with your Appwrite server side APIs from your terminal.
+* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 103 | 🐛 12 | 🌐 Go | 📅 2026-10-09 interact with your Appwrite server side APIs from your terminal.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-16 generate Typescript Interfaces from Appwrite DB
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit) ⭐ 34 | 🐛 4 | 🌐 Dart | 📅 2024-08-02
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) ⭐ 19 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-19 explore different aspects of an Appwrite project from the front end
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
