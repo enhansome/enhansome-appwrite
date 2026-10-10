@@ -1160,7 +1160,7 @@
                 "open_issues": 45,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35824,
+                "stars": 35838,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2737,7 +2737,7 @@
                 "open_issues": 5,
                 "owner": "appwrite",
                 "repo": "sdk-for-node",
-                "stars": 258,
+                "stars": 257,
                 "topics": [
                   "appwrite",
                   "baas",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:12:52.237Z",
+    "last_updated": "2026-10-10T15:57:57.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
