@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 50,
+                "open_issues": 49,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35930,
+                "stars": 35931,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2760,8 +2760,8 @@
                 "id": 374978100,
                 "language": "Kotlin",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T23:46:38Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-23T13:17:27Z",
+                "open_issues": 12,
                 "owner": "appwrite",
                 "repo": "sdk-for-android",
                 "stars": 156,
@@ -2844,11 +2844,11 @@
                 "id": 409578805,
                 "language": "Swift",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-20T23:46:25Z",
+                "last_commit": "2026-10-23T15:17:16Z",
                 "open_issues": 4,
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 125,
+                "stars": 124,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3096,7 +3096,7 @@
             "id": 297582433,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-21T02:27:39Z",
+            "last_commit": "2026-10-23T10:46:40Z",
             "open_issues": 0,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:41:26.719Z",
+    "last_updated": "2026-10-23T15:29:27.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
