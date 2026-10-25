@@ -1160,7 +1160,7 @@
                 "open_issues": 50,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35934,
+                "stars": 35939,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2708,7 +2708,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-24T12:39:59Z",
-                "open_issues": 7,
+                "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "sdk-for-python",
                 "stars": 265,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:08:35.070Z",
+    "last_updated": "2026-10-25T14:35:31.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
