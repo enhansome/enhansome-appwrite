@@ -1160,7 +1160,7 @@
                 "open_issues": 54,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 35993,
+                "stars": 35997,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2483,8 +2483,8 @@
             "id": 214762609,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-03T15:02:57Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-04T08:55:42Z",
+            "open_issues": 13,
             "owner": "appwrite",
             "repo": "playground-for-web",
             "stars": 107,
@@ -2677,7 +2677,7 @@
                 "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-web",
-                "stars": 335,
+                "stars": 336,
                 "topics": [
                   "angular",
                   "appwrite",
@@ -2848,7 +2848,7 @@
                 "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -2980,7 +2980,7 @@
                 "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-swift",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T18:05:41.783Z",
+    "last_updated": "2026-11-04T18:15:10.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
