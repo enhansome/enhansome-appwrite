@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,005 | 🐛 59 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,009 | 🐛 60 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -445,7 +445,7 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-24
 
-* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-06
+* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-07
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2023-03-05
 
@@ -498,7 +498,7 @@ Share your apps here! Submit a pull request!
 * [Playground for Web](https://github.com/appwrite/playground-for-web) ⭐ 107 | 🐛 13 | 🌐 HTML | 📅 2026-11-04
 * [Playground for Python](https://github.com/appwrite/playground-for-python) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2026-05-14
 * [Playground for Node.js](https://github.com/appwrite/playground-for-node) ⭐ 71 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-14
-* [Playground for Android](https://github.com/appwrite/playground-for-android) ⭐ 71 | 🐛 4 | 🌐 Kotlin | 📅 2026-11-06
+* [Playground for Android](https://github.com/appwrite/playground-for-android) ⭐ 71 | 🐛 3 | 🌐 Kotlin | 📅 2026-11-07
 * [Playground for Deno](https://github.com/appwrite/playground-for-deno) ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-19
 * [Playground for Android with Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2020-10-03
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

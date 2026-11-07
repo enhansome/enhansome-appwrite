@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 36005,
+                "stars": 36009,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2248,7 +2248,7 @@
                 "id": 820469652,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T10:33:56Z",
+                "last_commit": "2026-11-07T09:00:53Z",
                 "open_issues": 4,
                 "owner": "ReadyToGift",
                 "repo": "Website",
@@ -2561,8 +2561,8 @@
             "id": 273659785,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-06T06:30:52Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-07T06:17:20Z",
+            "open_issues": 3,
             "owner": "appwrite",
             "repo": "playground-for-android",
             "stars": 71,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T17:42:43.615Z",
+    "last_updated": "2026-11-07T16:39:15.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
@@ -3245,7 +3245,7 @@
       "open_issues": 5,
       "owner": "appwrite",
       "repo": "awesome-appwrite",
-      "stars": 1091,
+      "stars": 1092,
       "topics": [
         "appwrite",
         "awesome",
