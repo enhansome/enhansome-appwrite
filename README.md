@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,011 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,020 | 🐛 61 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -494,12 +494,12 @@ Share your apps here! Submit a pull request!
 
 ## Playgrounds and Snippets
 
-* [Playground for Flutter](https://github.com/appwrite/playground-for-flutter) ⭐ 127 | 🐛 2 | 🌐 C++ | 📅 2026-08-25
-* [Playground for Web](https://github.com/appwrite/playground-for-web) ⭐ 107 | 🐛 13 | 🌐 HTML | 📅 2026-11-04
-* [Playground for Python](https://github.com/appwrite/playground-for-python) ⭐ 72 | 🐛 8 | 🌐 Python | 📅 2026-05-14
-* [Playground for Node.js](https://github.com/appwrite/playground-for-node) ⭐ 71 | 🐛 10 | 🌐 JavaScript | 📅 2026-05-14
-* [Playground for Android](https://github.com/appwrite/playground-for-android) ⭐ 71 | 🐛 3 | 🌐 Kotlin | 📅 2026-11-07
-* [Playground for Deno](https://github.com/appwrite/playground-for-deno) ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-19
+* [Playground for Flutter](https://github.com/appwrite/playground-for-flutter) ⭐ 127 | 🐛 4 | 🌐 C++ | 📅 2026-11-09
+* [Playground for Web](https://github.com/appwrite/playground-for-web) ⭐ 107 | 🐛 15 | 🌐 HTML | 📅 2026-11-09
+* [Playground for Python](https://github.com/appwrite/playground-for-python) ⭐ 72 | 🐛 10 | 🌐 Python | 📅 2026-11-09
+* [Playground for Node.js](https://github.com/appwrite/playground-for-node) ⭐ 71 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-09
+* [Playground for Android](https://github.com/appwrite/playground-for-android) ⭐ 71 | 🐛 5 | 🌐 Kotlin | 📅 2026-11-09
+* [Playground for Deno](https://github.com/appwrite/playground-for-deno) ⭐ 34 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-09
 * [Playground for Android with Retrofit](https://github.com/subhav13/Appwrite-Playground-for-Android-with-Retrofit) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2020-10-03
 * [Create a collection with Node.js](https://gist.github.com/eldadfux/0591d2205311b02966e5e365fbafad2a)
 
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
