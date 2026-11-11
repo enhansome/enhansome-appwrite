@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,019 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,027 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -445,7 +445,7 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-24
 
-* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-10
+* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-11
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2023-03-05
 
@@ -509,17 +509,17 @@ Share your apps here! Submit a pull request!
 
 * [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 420 | 🐛 22 | 🌐 Dart | 📅 2026-11-06
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 337 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-05
-* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 265 | 🐛 4 | 🌐 Python | 📅 2026-11-02
-* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 256 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28
+* [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 265 | 🐛 4 | 🌐 Python | 📅 2026-11-11
+* [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 256 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-11
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 156 | 🐛 12 | 🌐 Kotlin | 📅 2026-11-06
-* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 154 | 🐛 1 | 🌐 PHP | 📅 2026-11-03
-* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-10-28 (beta)
+* [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 154 | 🐛 1 | 🌐 PHP | 📅 2026-11-11
+* [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-11-11 (beta)
 * [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 126 | 🐛 3 | 🌐 Swift | 📅 2026-10-28
-* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 119 | 🐛 8 | 🌐 Dart | 📅 2026-10-28
-* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 92 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-28
+* [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 119 | 🐛 8 | 🌐 Dart | 📅 2026-11-11
+* [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 92 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-11
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-15
-* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 1 | 🌐 Ruby | 📅 2026-10-28
-* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 56 | 🐛 2 | 🌐 Swift | 📅 2026-10-28
+* [Appwrite Ruby SDK](https://github.com/appwrite/sdk-for-ruby) ⭐ 64 | 🐛 1 | 🌐 Ruby | 📅 2026-11-11
+* [Appwrite Swift SDK](https://github.com/appwrite/sdk-for-swift) ⭐ 56 | 🐛 2 | 🌐 Swift | 📅 2026-11-11
 
 ### Community-Built SDKs
 
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
