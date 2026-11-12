@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,027 | 🐛 66 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,031 | 🐛 67 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -445,7 +445,7 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-24
 
-* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-11
+* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 4 | 🌐 Vue | 📅 2026-11-12
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2023-03-05
 
@@ -530,7 +530,7 @@ Share your apps here! Submit a pull request!
 
 ## Tools
 
-* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2026-11-06 interact with your Appwrite server side APIs from your terminal.
+* [Appwrite CLI](https://github.com/appwrite/sdk-for-cli) ⭐ 104 | 🐛 0 | 🌐 Go | 📅 2026-11-12 interact with your Appwrite server side APIs from your terminal.
 * [Fetch Appwrite Types](https://github.com/YsarocK/fetch-appwrite-types) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2024-11-16 generate Typescript Interfaces from Appwrite DB
 * [Flutter Appwrite Account Kit](https://github.com/lohanidamodar/flappwrite_account_kit) ⭐ 34 | 🐛 4 | 🌐 Dart | 📅 2024-08-02
 * [Appwrite Explorer](https://github.com/stnguyen90/appwrite-explorer) ⭐ 19 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-19 explore different aspects of an Appwrite project from the front end
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
