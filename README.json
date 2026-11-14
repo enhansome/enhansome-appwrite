@@ -1160,7 +1160,7 @@
                 "open_issues": 68,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 36035,
+                "stars": 36041,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2248,7 +2248,7 @@
                 "id": 820469652,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T04:13:28Z",
+                "last_commit": "2026-11-14T16:26:58Z",
                 "open_issues": 4,
                 "owner": "ReadyToGift",
                 "repo": "Website",
@@ -2457,7 +2457,7 @@
             "id": 254143799,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-11-09T06:29:58Z",
+            "last_commit": "2026-11-13T23:18:07Z",
             "open_issues": 4,
             "owner": "appwrite",
             "repo": "playground-for-flutter",
@@ -2561,7 +2561,7 @@
             "id": 273659785,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-11-09T06:39:33Z",
+            "last_commit": "2026-11-13T23:28:09Z",
             "open_issues": 5,
             "owner": "appwrite",
             "repo": "playground-for-android",
@@ -3100,7 +3100,7 @@
             "open_issues": 0,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "hacktoberfest"
             ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T18:09:25.437Z",
+    "last_updated": "2026-11-14T16:44:50.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
