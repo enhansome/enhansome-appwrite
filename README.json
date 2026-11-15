@@ -1160,7 +1160,7 @@
                 "open_issues": 68,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 36041,
+                "stars": 36048,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2248,8 +2248,8 @@
                 "id": 820469652,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T16:26:58Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-14T22:39:02Z",
+                "open_issues": 5,
                 "owner": "ReadyToGift",
                 "repo": "Website",
                 "stars": 3,
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:44:50.669Z",
+    "last_updated": "2026-11-15T17:27:26.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
