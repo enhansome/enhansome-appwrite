@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 70,
+                "open_issues": 78,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 36046,
+                "stars": 36049,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2248,7 +2248,7 @@
                 "id": 820469652,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T17:45:40Z",
+                "last_commit": "2026-11-17T09:30:09Z",
                 "open_issues": 6,
                 "owner": "ReadyToGift",
                 "repo": "Website",
@@ -2673,7 +2673,7 @@
                 "id": 174654219,
                 "language": "TypeScript",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T13:52:26Z",
+                "last_commit": "2026-11-17T05:06:24Z",
                 "open_issues": 2,
                 "owner": "appwrite",
                 "repo": "sdk-for-web",
@@ -3096,7 +3096,7 @@
             "id": 297582433,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T18:24:08Z",
+            "last_commit": "2026-11-17T18:20:43Z",
             "open_issues": 0,
             "owner": "appwrite",
             "repo": "sdk-for-cli",
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T20:41:27.087Z",
+    "last_updated": "2026-11-17T19:26:45.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",
