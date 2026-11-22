@@ -1157,10 +1157,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-10T12:56:35Z",
-                "open_issues": 81,
+                "open_issues": 83,
                 "owner": "refinedev",
                 "repo": "refine",
-                "stars": 36063,
+                "stars": 36064,
                 "topics": [
                   "admin",
                   "admin-ui",
@@ -2248,7 +2248,7 @@
                 "id": 820469652,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T17:40:03Z",
+                "last_commit": "2026-11-22T17:15:46Z",
                 "open_issues": 11,
                 "owner": "ReadyToGift",
                 "repo": "Website",
@@ -2643,7 +2643,7 @@
                 "id": 264599412,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-16T11:55:33Z",
+                "last_commit": "2026-11-22T04:28:57Z",
                 "open_issues": 21,
                 "owner": "appwrite",
                 "repo": "sdk-for-flutter",
@@ -2848,7 +2848,7 @@
                 "open_issues": 3,
                 "owner": "appwrite",
                 "repo": "sdk-for-apple",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -3233,7 +3233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T17:46:59.512Z",
+    "last_updated": "2026-11-22T18:04:57.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Carefully curated list of awesome Appwrite resources 💪",

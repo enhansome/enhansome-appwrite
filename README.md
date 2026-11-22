@@ -345,7 +345,7 @@ Share your apps here! Submit a pull request!
 
 ### React
 
-* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,063 | 🐛 81 | 🌐 TypeScript | 📅 2026-09-10
+* **Multi-Tenant Cake House** - A Multi-Tenant app built with Appwrite and Refine [Website](https://refine.dev/docs/advanced-tutorials/multi-tenancy/appwrite/) | [Source Code](https://github.com/refinedev/refine/tree/master/examples/multi-tenancy/appwrite) ⭐ 36,064 | 🐛 83 | 🌐 TypeScript | 📅 2026-09-10
 
 * **Appwrite + React Todo MVC** A simple todo app built with Appwrite and React. [Source Code](https://github.com/appwrite/todo-with-react) ⚠️ Archived [Demo](https://appwrite-todo-with-react.vercel.app/)
 
@@ -445,7 +445,7 @@ Share your apps here! Submit a pull request!
 
 * **Appwrite + Nuxt 3 Workout-Buddy** This is a Nuxt 3 App that uses Appwrite as a backend to showcase the uses of Appwrite Databases and Collections, Authentication, and Pinia stores through CRUD operations! [Source Code](https://github.com/EshaanAgg/workout-buddy) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-24
 
-* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 11 | 🌐 Vue | 📅 2026-11-21
+* **Wishlist** An open-source wishlist app, created as an alternative to Amazon Wishlists or a simple Google doc [Source Code](https://github.com/JackBailey/Wishlist) ⭐ 3 | 🐛 11 | 🌐 Vue | 📅 2026-11-22
 
 * **(Appwrite + Nuxt) DeUrl** A simple URL Shortener app made with appwrite and NuxtJs. [Source Code](https://github.com/AVDiv/appwrite_nuxtjs_url_shortner) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2023-03-05
 
@@ -507,14 +507,14 @@ Share your apps here! Submit a pull request!
 
 ### Official Appwrite SDKs
 
-* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 420 | 🐛 21 | 🌐 Dart | 📅 2026-11-16
+* [Appwrite Flutter SDK](https://github.com/appwrite/sdk-for-flutter) ⭐ 420 | 🐛 21 | 🌐 Dart | 📅 2026-11-22
 * [Appwrite Web SDK](https://github.com/appwrite/sdk-for-web) ⭐ 336 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-17
 * [Appwrite Python SDK](https://github.com/appwrite/sdk-for-python) ⭐ 265 | 🐛 4 | 🌐 Python | 📅 2026-11-18
 * [Appwrite Node.js SDK](https://github.com/appwrite/sdk-for-node) ⭐ 256 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-18
 * [Appwrite Android SDK](https://github.com/appwrite/sdk-for-android) ⭐ 156 | 🐛 12 | 🌐 Kotlin | 📅 2026-11-16
 * [Appwrite PHP SDK](https://github.com/appwrite/sdk-for-php) ⭐ 154 | 🐛 1 | 🌐 PHP | 📅 2026-11-16
 * [Appwrite .NET SDK](https://github.com/appwrite/sdk-for-dotnet) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-11-16 (beta)
-* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 126 | 🐛 3 | 🌐 Swift | 📅 2026-11-16
+* [Appwrite Apple SDK](https://github.com/appwrite/sdk-for-apple) ⭐ 127 | 🐛 3 | 🌐 Swift | 📅 2026-11-16
 * [Appwrite Dart SDK](https://github.com/appwrite/sdk-for-dart) ⭐ 119 | 🐛 8 | 🌐 Dart | 📅 2026-11-16
 * [Appwrite Kotlin SDK](https://github.com/appwrite/sdk-for-kotlin) ⭐ 92 | 🐛 2 | 🌐 Kotlin | 📅 2026-11-16
 * [Appwrite Deno SDK](https://github.com/appwrite/sdk-for-deno) ⭐ 81 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-15
@@ -557,4 +557,4 @@ You can also find the [Appwrite Topic on GitHub](https://github.com/topics/appwr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
